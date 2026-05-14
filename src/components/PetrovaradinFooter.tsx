@@ -19,10 +19,10 @@ export default function PetrovaradinFooter() {
 
         {/* Links */}
         <div className="flex flex-wrap justify-center gap-6 mb-8">
-          <Link href="/petrovaradin-fortress-clock/privacy-policy" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
+          <Link href="/privacy-policy" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
             {t('privacy')}
           </Link>
-          <Link href="/petrovaradin-fortress-clock/terms-of-service" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
+          <Link href="/terms-of-service" className="text-sm hover:underline" style={{ color: 'var(--accent)' }}>
             {t('terms')}
           </Link>
         </div>
