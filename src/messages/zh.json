@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "title": "Hverir｜冰岛最活跃的地热区 - Mývatn旅游指南",
+    "description": "冰岛Hverir地热区完整指南。了解游览建议、交通方式、拍照机位和旅行路线。Mývatn附近色彩最丰富的地热田，拥有沸腾的泥浆池和蒸汽喷口。"
+  },
+  "hero": {
+    "title": "Hverir地热区",
+    "subtitle": "冰岛最活跃的地热区，Mývatn附近",
+    "rating": "4.6(9,404)",
+    "reviewCount": "9,404 条真实评价",
+    "hours": "全年24小时开放",
+    "openMaps": "查看位置",
+    "bgImage": "/gallery/hverir (1).jpg"
+  },
+  "intro": {
+    "aboutTitle": "关于Hverir",
+    "aboutText": "Hverir（又名Hverarönd或Námafjall）是冰岛最活跃、最易到达的地热区之一，位于冰岛北部Mývatn附近的Námafjall山斜坡上。这片看似外星世界的景观拥有沸腾的泥浆池、嘶嘶作响的蒸汽喷口、色彩斑斓的矿物质沉积物，以及浓郁的硫磺味，让你感觉仿佛登陆了另一个星球。",
+    "title": "探索冰岛的外星地貌",
+    "description": "当你从1号环岛公路（Ring Road）接近Hverir时，首先映入眼帘的是从地面升起的蒸汽，就像远处的火焰冒出的烟雾。空气中弥漫着浓郁的硫磺气味——有人喜欢，有人讨厌，但每个人都会记住它。\n\n沿着标记清晰的小径行走，你会看到泥浆池剧烈沸腾，表面冒着泡、发出咕噜咕噜的声音，就像女巫的坩埚。色彩超现实：明亮的黄色硫磺晶体、锈红色的铁沉积物、白垩色的白色粘土，在异世界般的地形上形成了一幅画家的调色板。\n\n不要错过地热田后方Námafjall山的攀登。从山顶俯瞰，整个Mývatn地区尽收眼底，一侧是Hverir升起的蒸汽，另一侧是Mývatn湖的蓝色湖水。这是冰岛最上镜的地点之一。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "硫磺味很浓——如果对气味敏感，请带围巾捂住鼻子",
+        "务必留在标记的小径上——地面脆弱且危险",
+        "早晨或傍晚的光线最适合摄影",
+        "可以顺便游览附近的Mývatn地热温泉，度过完美一天"
+      ]
+    },
+    "highlights": {
+      "title": "景区特色",
+      "items": [
+        "近距离观看沸腾的泥浆池和嘶嘶作响的蒸汽喷口",
+        "超现实般的彩色矿物景观",
+        "轻松的步行路径，停车场就在景点旁边",
+        "免费入场，24/7全年开放"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "别名",
+      "items": [
+        "Hverarönd",
+        "Námafjall地热区",
+        "Hverir地热田"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Hverir (Hverarönd)",
+    "type": "景点类型",
+    "typeValue": "地热区、自然地标、徒步区",
+    "country": "国家",
+    "countryValue": "冰岛（Iceland）",
+    "city": "地区 / 位置",
+    "cityValue": "冰岛东北部，靠近Mývatn和Reykjahlíð",
+    "googleRating": "谷歌评分",
+    "ratingValue": "4.6 (9,404 条真实评价)",
+    "phone": "咨询电话",
+    "phoneValue": "无（自然景点，现场无工作人员）",
+    "address": "地址",
+    "addressValue": "J5RR+978, 660 Reykjahlíð, Iceland"
+  },
+  "hours": {
+    "title": "开放时间",
+    "fortress": "地热田",
+    "fortressDesc": "全年365天、每周7天、每天24小时开放。无需门票或预约。",
+    "fortressTime": "24 小时（免费）",
+    "cafe": "最佳 daylight 时段",
+    "cafeDesc": "推荐游览时间",
+    "cafeTime": "09:00-20:00（夏季），10:00-16:00（冬季）",
+    "tip": "夏季的极昼（midnight sun）允许任何时间到访。冬季请在白天时段游览，以确保安全和能见度。",
+    "summer": "夏季（6月-8月）",
+    "summerTime": "24 小时（极昼）",
+    "winter": "冬季（11月-3月）",
+    "winterTime": "24 小时（白天 10:00-16:00）",
+    "christmas": "停车场",
+    "christmasTime": "24 小时（免费停车）",
+    "rosenborg": "步行小径",
+    "rosenborgTime": "开放（请留在标记的小径上）"
+  },
+  "tickets": {
+    "title": "门票价格",
+    "fortress": "地热田入场",
+    "free": "免费开放",
+    "fortressDesc": "Hverir是由国家管理的自然景点。无需入场费，也不需要门票。",
+    "catacombs": "停车场",
+    "catacombsDesc": "1号环岛公路旁有免费停车场。旺季期间车位有限。",
+    "catacombsNote": "停车免费，除了极端旺季（7月）外，通常车位充足。",
+    "garden": "导游服务",
+    "gardenPrice": "可选（额外费用）",
+    "rosenborg": "附近的Mývatn自然温泉",
+    "adults": "成人票",
+    "adultsPrice": "约 5,500 冰岛克朗",
+    "students": "学生票",
+    "studentsPrice": "约 5,500 冰岛克朗",
+    "under17": "儿童（13岁以下）",
+    "under17Price": "免费（需有付费成人陪同）",
+    "card": "Námafjall登山",
+    "cardPrice": "免费（自助游览）"
+  },
+  "transport": {
+    "title": "交通方式",
+    "walking": {
+      "title": "自驾（强烈推荐）",
+      "badge": "推荐",
+      "desc": "驾驶冰岛1号环岛公路（Ring Road）北上。Hverir有清晰的路标，就在公路旁边，距离阿克雷里（Akureyri）约105公里，距离Reykjahlíð（Mývatn）仅6公里。现场有免费停车场。"
+    },
+    "bus": "公交",
+    "car": {
+      "title": "公交",
+      "desc": "乘坐Strætó 56路公交车（阿克雷里-Mývatn线）。告诉司机在Hverir（Námafjall）下车。由于服务有限，请在Straeto.is网站上查看最新时刻表。"
+    },
+    "metro": "自驾（推荐）",
+    "metroDesc": "就在1号环岛公路旁，距离Reykjahlíð仅6公里。现场免费停车。这是探索该地区最灵活的方式。",
+    "train": "从雷克雅未克出发",
+    "trainDesc": "距离雷克雅未克约480公里。沿1号环岛公路向东北行驶约6小时。或者，乘坐国内航班到阿克雷里（45分钟），然后驾车1小时到达Hverir。",
+    "busDesc": "Strætó 56路公交车在Hverir停靠。请在Straeto.is上查看最新时刻表。服务非常有限，仅推荐给预算有限的旅行者。",
+    "taxi": "从阿克雷里机场出发",
+    "taxiDesc": "距离阿克雷里约105公里。在机场租车（强烈推荐）并沿1号环岛公路行驶约1.5小时。出租车昂贵，不推荐。",
+    "rideshare": "停车场",
+    "rideshareDesc": "1号环岛公路旁有免费停车场。车位有限但通常足够。不允许过夜露营。",
+    "cycling": "从停车场步行",
+    "cyclingDesc": "从停车场到主要地热区仅需步行1-2分钟。木制栈道带领您穿越整个景区。",
+    "fromStation": "从Reykjahlíð（Mývatn）出发",
+    "fromStationDesc": "仅6公里。开车7分钟，或沿1号环岛公路和徒步小径步行1.5小时（风景优美）。",
+    "fromNyhavn": "从阿克雷里出发",
+    "fromNyhavnDesc": "约105公里，沿1号环岛公路（Route 1）向东北行驶。开车约1.5小时。沿途经过美丽的火山景观。"
+  },
+  "knowledge": {
+    "title": "Hverir的地质与文化",
+    "sections": [
+      {
+        "title": "地质意义",
+        "content": "Hverir是Krafla火山系统的一部分，是冰岛最活跃的地热区域之一。沸腾的泥浆池（soltý-potts）和蒸汽喷口（fumaroles）是由岩浆加热地下水形成的，热水以蒸汽或沸腾泥浆的形式上升到地表。\n\n色彩缤纷的矿物沉积物——黄色硫磺、红色氧化铁和白垩色粘土——是由数千年来强烈的地热活动形成的。该区域仍在不断变化；地震或火山活动后可能会出现新的蒸汽喷口。"
+      },
+      {
+        "title": "文化与民间传说价值",
+        "content": "在冰岛的民间传说中，像Hverir这样严酷而超现实的景观通常与巨魔、精灵（hidden people）和其他神秘生物的居住地联系在一起。\n\n\"Hverir\"这个名字来自古北欧语单词\"hverr\"，意思是\"大锅\"或\"温泉\"。另一个名字\"Hverarönd\"字面意思是\"温泉的边缘\"。几个世纪以来，冰岛人一直知道这个地区，《古老传奇》中也有提及。"
+      },
+      {
+        "title": "现代旅游与保护",
+        "content": "如今，Hverir是冰岛参观人数最多的自然景点之一，尤其在环岛公路自驾游旅客中非常受欢迎。已经安装了木制栈道，以保护游客和脆弱的地热地面。\n\n强烈建议游客留在标记的小径上。地面的一层薄壳可能会塌陷，导致被下方沸腾的泥浆或蒸汽严重烧伤。该景点由冰岛环境局作为Mývatn保护区的一部分进行管理。"
+      }
+    ]
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "建议安排大半天（3-4小时）的时间。到达Hverir后，沿着栈道穿越地热田，然后攀登Námafjall山俯瞰全景。在行程结束时，在附近的Mývatn自然温泉放松身心。",
+    "steps": [
+      "到达与停车：在1号环岛公路旁的免费停车场停车，步行仅需1分钟即可到达景区",
+      "穿越地热田：沿着木制栈道行走，观看沸腾的泥浆池、蒸汽喷口和色彩缤纷的矿物沉积物",
+      "拍照停留：以背景中升起的蒸汽为衬托，捕捉超现实的景观",
+      "攀登Námafjall：爬上Hverir后面的山（往返约30-45分钟），俯瞰Mývatn的全景",
+      "参观附近的Krafla：开车10分钟到达Krafla火山口和Víti爆炸坑",
+      "在Mývatn自然温泉放松：在Hverir结束一天的活动，享受地热浸泡（距离Hverir 20分钟）"
+    ],
+    "tips": {
+      "title": "游览贴士",
+      "items": [
+        "留在标记的栈道上——地面脆弱且温度极高",
+        "硫磺味可能让人难以忍受；敏感的游客应带口罩",
+        "强风很常见——请带防风外套",
+        "可以结合Mývatn自然温泉，度过完美的地热一日游"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "拍照机位",
+    "spots": [
+      {
+        "name": "沸腾泥浆池特写",
+        "desc": "使用长焦镜头捕捉冒泡的泥浆，无需过于靠近危险的蒸汽"
+      },
+      {
+        "name": "蒸汽喷口与Námafjall山",
+        "desc": "以山为背景捕捉升起的蒸汽，构成戏剧性的画面"
+      },
+      {
+        "name": "彩色矿物沉积物",
+        "desc": "低角度拍摄，突出矿物的鲜艳黄色、红色和白色"
+      },
+      {
+        "name": "Námafjall山顶全景",
+        "desc": "俯瞰整个Hverir地区，远处是Mývatn湖——日落时分最佳"
+      }
+    ],
+    "tips": "早晨和傍晚的光线（黄金时段）提供最佳色彩和阴影。正午的阳光可能过于强烈，使景观显得平淡。夏季，利用极昼（midnight sun）获得独特的光照条件。"
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "Reykjahlíð（Mývatn地区）",
+        "desc": "距离Hverir仅6公里，是最方便的住宿选择。选项包括现代化的Fosshotel Mývatn、经济实惠的Hlíð露营地，以及舒适的宾馆。",
+        "price": "约 €120-300/晚（酒店），€20-40/晚（露营）"
+      },
+      {
+        "name": "阿克雷里（距离105公里）",
+        "desc": "冰岛的\"北方首都\"，拥有最广泛的酒店、餐厅和服务选择。距离Hverir车程约1.5小时。",
+        "price": "约 €100-250/晚"
+      },
+      {
+        "name": "Húsavík（距离80公里）",
+        "desc": "Mývatn北部迷人的观鲸小镇。如果想将地热奇观与观鲸结合起来，可以住在这里。",
+        "price": "约 €90-200/晚"
+      }
+    ],
+    "exitWarning": "Mývatn附近的住宿在夏季（6月-8月）很快就会被订满。请提前很久预订。对于预算有限的旅行者，在Reykjahlíð的Hlíð露营地露营是最方便且经济实惠的选择。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Hverir地热区与Námafjall山",
+    "captions": [
+      "沸腾的泥浆池",
+      "蒸汽喷口",
+      "彩色硫磺沉积物",
+      "Námafjall山景",
+      "地热景观",
+      "木制栈道",
+      "全景俯瞰",
+      "Mývatn湖景"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
+    "photos": [
+      { "src": "/gallery/hverir (1).jpg", "alt": "Hverir地热田全景" },
+      { "src": "/gallery/hverir (2).jpg", "alt": "沸腾泥浆池特写" },
+      { "src": "/gallery/hverir (3).jpg", "alt": "蒸汽喷口与喷气孔" },
+      { "src": "/gallery/hverir (4).jpg", "alt": "彩色矿物沉积物" },
+      { "src": "/gallery/hverir (5).jpg", "alt": "Námafjall山" },
+      { "src": "/gallery/hverir (6).jpg", "alt": "木制栈道" },
+      { "src": "/gallery/hverir (7).jpg", "alt": "山顶全景视角" },
+      { "src": "/gallery/hverir (8).jpg", "alt": "硫磺晶体特写" },
+      { "src": "/gallery/hverir (9).jpg", "alt": "地热区域景观" },
+      { "src": "/gallery/hverir (10).jpg", "alt": "地面升起的蒸汽" },
+      { "src": "/gallery/hverir (11).jpg", "alt": "Mývatn湖远景" },
+      { "src": "/gallery/hverir (12).jpg", "alt": "Hverir区域全景" }
+    ]
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "张明",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "绝对是超现实的体验！从地面升起的色彩和蒸汽让我感觉像是在火星上。免费、交通便利、令人难忘。"
+      },
+      {
+        "name": "李华",
+        "date": "2026年3月",
+        "rating": 5,
+        "text": "Hverir后面的Námafjall山登山是我们环岛公路之旅的亮点。Mývatn和地热区的全景令人叹为观止！"
+      },
+      {
+        "name": "王芳",
+        "date": "2026年2月",
+        "rating": 4,
+        "text": "如此独特的景观！硫磺味很浓，所以要做好准备。请留在栈道上，不要错过登山。"
+      },
+      {
+        "name": "陈伟",
+        "date": "2026年1月",
+        "rating": 5,
+        "text": "免费且24/7开放——我们在夏至期间在午夜到访，几乎只有我们自己在那里。极昼的光线令人着迷。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "J5RR+978, 660 Reykjahlíð, Iceland",
+    "openMaps": "在 Google Maps 查看",
+    "openMapsUrl": "https://maps.app.goo.gl/XR4FSQY6QcQvKWSq8",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1608.800!2d-16.8886!3d65.6392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48c7e5a8c8c8c8c8%3A0x8c8c8c8c8c8c8c8c!2sHverir!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+  },
+  "footer": {
+    "logo": "Hverir地热区",
+    "rights": "© 2026 Hverir地热区独立游客指南。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "disclaimer": "免责声明：本网站为独立运营的游客指南，与冰岛政府、Visit Iceland或Mývatn保护区官方管理机构无任何隶属关系。本站提供的信息仅供旅行参考，情况可能随季节变化。建议出行前通过官方渠道进行核实。",
+    "officialResourcesTitle": "官方旅游资源",
+    "officialLinks": {
+      "council": "Inspired by Iceland",
+      "tourism": "Visit Iceland官方网站",
+      "england": "冰岛环境局"
+    }
+  },
+  "officialManagement": {
+    "title": "关于Hverir",
+    "text": "Hverir（又名Hverarönd）是冰岛最活跃的地热区之一，位于冰岛北部Mývatn附近的Námafjall山斜坡上。该景点由冰岛环境局作为Mývatn保护区的一部分进行管理，以其沸腾的泥浆池、蒸汽喷口和超现实的景观吸引着来自世界各地的游客。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图集",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术、您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求、遵守我们的法律义务。"
+      },
+      {
+        "heading": "第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对治疗、向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年3月",
+    "sections": [
+      {
+        "heading": "内容使用",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "责任限制",
+        "content": "本网站按\"现状\"提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年3月。我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "alwaysActive": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。"
+    },
+    "preferences": {
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。保存您的语言偏好和网站设置。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。它可以根据你的兴趣为你展示相关的广告。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "save": "保存偏好设置",
+    "rejectAll": "拒绝一切",
+    "saved": "设置已保存！"
+  }
+}

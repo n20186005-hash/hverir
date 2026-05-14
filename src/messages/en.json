@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "title": "Hverir｜Iceland's Most Active Geothermal Area - Mývatn Travel Guide",
+    "description": "Complete guide to Hverir geothermal area in Iceland. Learn about visiting tips, transportation, photo spots, and travel routes. The most colorful geothermal field near Mývatn with boiling mud pots and steam vents."
+  },
+  "hero": {
+    "title": "Hverir",
+    "subtitle": "Iceland's Most Active Geothermal Area, Near Mývatn",
+    "rating": "4.6(9,404)",
+    "reviewCount": "9,404 real reviews",
+    "hours": "Open 24 hours, year-round",
+    "openMaps": "View Location",
+    "bgImage": "/gallery/hverir (1).jpg"
+  },
+  "intro": {
+    "aboutTitle": "About Hverir",
+    "aboutText": "Hverir (also known as Hverarönd or Námafjall) is one of Iceland's most active and accessible geothermal areas, located on the slopes of Námafjall mountain near Mývatn in North Iceland. This otherworldly landscape features boiling mud pots, hissing steam vents, colorful mineral deposits, and the pungent smell of sulfur that makes you feel like you've landed on another planet.",
+    "title": "Explore Iceland's Alien Landscape",
+    "description": "As you approach Hverir from the Ring Road, you'll first notice the steam rising from the ground like smoke from a distant fire. The air carries a strong sulfur scent—some love it, some hate it, but everyone remembers it.\n\nWalking along the marked pathways, you'll see mud pots bubbling furiously, their surfaces popping and gurgling like a witch's cauldron. The colors are surreal: bright yellow sulfur crystals, rusty red iron deposits, and chalky white clay create a painter's palette across the alien terrain.\n\nDon't miss the climb up Námafjall mountain behind the geothermal field. The view from the top overlooks the entire Mývatn region, with steam rising from Hverir on one side and the blue waters of Mývatn lake on the other. It's one of the most photogenic spots in all of Iceland.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Strong sulfur smell—bring a scarf to cover your nose if sensitive",
+        "Stay on marked paths—the ground is fragile and dangerous",
+        "Morning or evening light is best for photography",
+        "Combine with nearby Mývatn geothermal baths for a perfect day"
+      ]
+    },
+    "highlights": {
+      "title": "Highlights",
+      "items": [
+        "Boiling mud pots and hissing steam vents up close",
+        "Otherworldly colorful mineral landscapes",
+        "Easy walkable paths with parking right next to the site",
+        "Free admission, open 24/7, year-round access"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Also Known As",
+      "items": [
+        "Hverarönd",
+        "Námafjall Geothermal Area",
+        "Hverir Geothermal Field"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Hverir (Hverarönd)",
+    "type": "Attraction Type",
+    "typeValue": "Geothermal Area, Natural Landmark, Hiking Area",
+    "country": "Country",
+    "countryValue": "Iceland",
+    "city": "Region / Location",
+    "cityValue": "Northeast Iceland, near Mývatn and Reykjahlíð",
+    "googleRating": "Google Rating",
+    "ratingValue": "4.6 (9,404 real reviews)",
+    "phone": "Info Phone",
+    "phoneValue": "N/A (Natural site, no staff on-site)",
+    "address": "Address",
+    "addressValue": "J5RR+978, 660 Reykjahlíð, Iceland"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "fortress": "Geothermal Field",
+    "fortressDesc": "Open 24 hours a day, 7 days a week, year-round. No tickets or reservations required.",
+    "fortressTime": "24 Hours (Free)",
+    "cafe": "Best Daylight Hours",
+    "cafeDesc": "Recommended visiting time",
+    "cafeTime": "09:00-20:00 (Summer), 10:00-16:00 (Winter)",
+    "tip": "Midnight sun in summer allows visiting at any time. In winter, visit during daylight hours for safety and visibility.",
+    "summer": "Summer (June-August)",
+    "summerTime": "24 Hours (Midnight Sun)",
+    "winter": "Winter (November-March)",
+    "winterTime": "24 Hours (Daylight 10:00-16:00)",
+    "christmas": "Parking Area",
+    "christmasTime": "24 Hours (Free Parking)",
+    "rosenborg": "Walking Paths",
+    "rosenborgTime": "Open (Stay on marked trails)"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "fortress": "Geothermal Field Access",
+    "free": "Free Admission",
+    "fortressDesc": "Hverir is a natural site managed by the state. There is no admission fee, and no tickets are required.",
+    "catacombs": "Parking",
+    "catacombsDesc": "Free parking available next to the Ring Road. Spaces are limited during peak season.",
+    "catacombsNote": "Parking is free and usually sufficient except during extreme peak season (July).",
+    "garden": "Guided Tours",
+    "gardenPrice": "Optional (Extra Cost)",
+    "rosenborg": "Nearby Mývatn Nature Baths",
+    "adults": "Adults",
+    "adultsPrice": "About 5,500 ISK",
+    "students": "Students",
+    "studentsPrice": "About 5,500 ISK",
+    "under17": "Children (under 13)",
+    "under17Price": "Free (with paid adult)",
+    "card": "Námafjall Hike",
+    "cardPrice": "Free (Self-guided)"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "walking": {
+      "title": "By Car (Highly Recommended)",
+      "badge": "Recommended",
+      "desc": "Drive the Ring Road (Route 1) in North Iceland. Hverir is clearly signed and located directly next to the road, about 105 km from Akureyri and 6 km from Reykjahlíð (Mývatn). Free parking is available on-site."
+    },
+    "bus": "By Bus",
+    "car": {
+      "title": "By Bus",
+      "desc": "Take the Strætó bus route 56 (Akureyri-Mývatn). Ask the driver to stop at Hverir (Námafjall). Check the latest schedule on the Straeto.is website as service is limited."
+    },
+    "metro": "By Car (Recommended)",
+    "metroDesc": "Directly on the Ring Road, 6 km from Reykjahlíð. Free parking on-site. The most flexible way to explore the area.",
+    "train": "From Reykjavik",
+    "trainDesc": "About 480 km from Reykjavik. Drive the Ring Road northeast for about 6 hours. Alternatively, take a domestic flight to Akureyri (45 mins) then drive 1 hour to Hverir.",
+    "busDesc": "Strætó bus route 56 stops at Hverir. Check the latest schedule on Straeto.is. Very limited service, recommended only for budget travelers.",
+    "taxi": "From Akureyri Airport",
+    "taxiDesc": "About 105 km from Akureyri. Rent a car at the airport (highly recommended) and drive about 1.5 hours via the Ring Road. Taxis are expensive and not recommended.",
+    "rideshare": "Parking",
+    "rideshareDesc": "Free parking lot right next to the Ring Road. Spaces are limited but usually sufficient. No overnight camping allowed.",
+    "cycling": "Walking (from parking)",
+    "cyclingDesc": "From the parking lot, it's a short 1-2 minute walk to the main geothermal area. Wooden boardwalks lead you through the site.",
+    "fromStation": "From Reykjahlíð (Mývatn)",
+    "fromStationDesc": "Only 6 km away. A quick 7-minute drive, or a 1.5-hour scenic walk along the Ring Road and hiking trails.",
+    "fromNyhavn": "From Akureyri",
+    "fromNyhavnDesc": "About 105 km via the Ring Road (Route 1). Drive northeast for about 1.5 hours. The route passes through beautiful volcanic landscapes."
+  },
+  "knowledge": {
+    "title": "The Geology & Culture of Hverir",
+    "sections": [
+      {
+        "title": "Geological Significance",
+        "content": "Hverir is part of the Krafla volcanic system, one of Iceland's most active geothermal areas. The boiling mud pots (soltý-potts) and steam vents (fumaroles) are caused by magma heating underground water, which rises to the surface as steam or boiling mud.\n\nThe colorful mineral deposits—yellow sulfur, red iron oxide, and white clay—are formed by the intense geothermal activity over thousands of years. The area is still actively changing; new steam vents can appear after earthquakes or volcanic activity."
+      },
+      {
+        "title": "Cultural & Folkloric Value",
+        "content": "In Icelandic folklore, the harsh and otherworldly landscapes of places like Hverir were often associated with the dwelling places of trolls, elves (hidden people), and other mystical beings.\n\nThe name 'Hverir' comes from the Old Norse word 'hverr,' meaning 'cauldron' or 'hot spring.' The alternative name 'Hverarönd' literally means 'the edge of the hot springs.' This area has been known to Icelanders for centuries and is mentioned in old sagas."
+      },
+      {
+        "title": "Modern Tourism & Conservation",
+        "content": "Today, Hverir is one of Iceland's most visited natural attractions, especially popular among Ring Road road-trippers. Wooden boardwalks have been installed to protect both visitors and the fragile geothermal ground.\n\nVisitors are strongly advised to stay on marked paths. The thin crust of the ground can collapse, leading to severe burns from the boiling mud or steam underneath. The site is managed by the Icelandic Environment Agency as part of the Mývatn protected area."
+      }
+    ]
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "A half-day trip (3-4 hours) is recommended. Arrive at Hverir, walk the boardwalks through the geothermal field, then hike up Námafjall mountain for panoramic views. End your visit with a relaxing soak at the nearby Mývatn Nature Baths.",
+    "steps": [
+      "Arrive & park: Park in the free lot next to the Ring Road, just a 1-minute walk to the site",
+      "Walk the geothermal field: Follow the wooden boardwalks to see boiling mud pots, steam vents, and colorful mineral deposits",
+      "Photo stop: Capture the surreal landscape with steam rising in the background",
+      "Hike Námafjall: Climb the mountain behind Hverir (about 30-45 mins round trip) for panoramic views of Mývatn",
+      "Visit nearby Krafla: Drive 10 minutes to the Krafla volcanic crater and Víti explosion crater",
+      "Relax at Mývatn Nature Baths: End your day with a geothermal soak (20 mins from Hverir)"
+    ],
+    "tips": {
+      "title": "Travel Tips",
+      "items": [
+        "Stay on marked boardwalks—the ground is fragile and dangerously hot",
+        "The sulfur smell can be overwhelming; sensitive visitors should bring a mask",
+        "Strong winds are common—bring a windproof jacket",
+        "Combine with Mývatn Nature Baths for a perfect geothermal day"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Boiling Mud Pots Close-up",
+        "desc": "Use a telephoto lens to capture the bubbling mud without getting too close to the dangerous steam"
+      },
+      {
+        "name": "Steam Vents with Námafjall Mountain",
+        "desc": "Capture the steam rising with the mountain backdrop for a dramatic composition"
+      },
+      {
+        "name": "Colorful Mineral Deposits",
+        "desc": "Get low to the ground to highlight the vibrant yellows, reds, and whites of the minerals"
+      },
+      {
+        "name": "Panoramic View from Námafjall Summit",
+        "desc": "Overlook the entire Hverir area with Mývatn lake in the distance—best at sunset"
+      }
+    ],
+    "tips": "Morning and evening light (golden hour) provide the best colors and shadows. Midday sun can be harsh and flatten the landscape. In summer, take advantage of the midnight sun for unique lighting conditions."
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Reykjahlíð (Mývatn Area)",
+        "desc": "The closest accommodation option, just 6 km from Hverir. Options include the modern Fosshotel Mývatn, budget-friendly Hlíð Camping, and cozy guesthouses.",
+        "price": "€120-300/night (hotel), €20-40/night (camping)"
+      },
+      {
+        "name": "Akureyri (105 km away)",
+        "desc": "Iceland's 'Northern Capital' with the widest range of hotels, restaurants, and services. A 1.5-hour drive from Hverir.",
+        "price": "€100-250/night"
+      },
+      {
+        "name": "Húsavík (80 km away)",
+        "desc": "Charming whale-watching town north of Mývatn. Stay here if you want to combine geothermal wonders with whale watching.",
+        "price": "€90-200/night"
+      }
+    ],
+    "exitWarning": "Accommodation near Mývatn fills up quickly in summer (June-August). Book well in advance. For budget travelers, camping at Hlíð Camping in Reykjahlíð is the most convenient and affordable option."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Hverir Geothermal Area & Námafjall Mountain",
+    "captions": [
+      "Boiling Mud Pots",
+      "Steam Vents",
+      "Colorful Sulfur Deposits",
+      "Námafjall Mountain View",
+      "Geothermal Landscape",
+      "Wooden Boardwalks",
+      "Panoramic Overlook",
+      "Mývatn Lake View"
+    ],
+    "viewAll": "View on Google Maps",
+    "photos": [
+      { "src": "/gallery/hverir (1).jpg", "alt": "Hverir Geothermal Field Overview" },
+      { "src": "/gallery/hverir (2).jpg", "alt": "Boiling Mud Pots Close-up" },
+      { "src": "/gallery/hverir (3).jpg", "alt": "Steam Vents and Fumaroles" },
+      { "src": "/gallery/hverir (4).jpg", "alt": "Colorful Mineral Deposits" },
+      { "src": "/gallery/hverir (5).jpg", "alt": "Námafjall Mountain" },
+      { "src": "/gallery/hverir (6).jpg", "alt": "Wooden Boardwalk Path" },
+      { "src": "/gallery/hverir (7).jpg", "alt": "Panoramic View from Summit" },
+      { "src": "/gallery/hverir (8).jpg", "alt": "Sulfur Crystals Close-up" },
+      { "src": "/gallery/hverir (9).jpg", "alt": "Geothermal Area Landscape" },
+      { "src": "/gallery/hverir (10).jpg", "alt": "Steam Rising from Ground" },
+      { "src": "/gallery/hverir (11).jpg", "alt": "Mývatn Lake Distant View" },
+      { "src": "/gallery/hverir (12).jpg", "alt": "Hverir Area Panorama" }
+    ]
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Emma T.",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Absolutely otherworldly! The colors and steam rising from the ground made me feel like I was on Mars. Free, accessible, and unforgettable."
+      },
+      {
+        "name": "James L.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "The hike up Námafjall mountain behind Hverir was the highlight of our Ring Road trip. Panoramic views of Mývatn and the geothermal area are breathtaking!"
+      },
+      {
+        "name": "Sophie M.",
+        "date": "February 2026",
+        "rating": 4,
+        "text": "Such a unique landscape! The sulfur smell is very strong, so be prepared. Stay on the boardwalks and don't miss the climb up the mountain."
+      },
+      {
+        "name": "Oliver K.",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "Free and open 24/7—we visited at midnight during the summer solstice and had the place almost to ourselves. The midnight sun lighting was magical."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "J5RR+978, 660 Reykjahlíð, Iceland",
+    "openMaps": "View on Google Maps",
+    "openMapsUrl": "https://maps.app.goo.gl/XR4FSQY6QcQvKWSq8",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1608.800!2d-16.8886!3d65.6392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48c7e5a8c8c8c8c8%3A0x8c8c8c8c8c8c8c8c!2sHverir!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+  },
+  "footer": {
+    "logo": "Hverir",
+    "rights": "© 2026 Independent Visitor Guide to Hverir Geothermal Area. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "disclaimer": "Disclaimer: This website is an independent visitor guide and is not affiliated with the Icelandic government, Visit Iceland, or the official management of Mývatn Protected Area. Information provided is for travel reference only. Conditions may vary by season. We recommend verifying with official sources before your visit.",
+    "officialResourcesTitle": "Official Tourism Resources",
+    "officialLinks": {
+      "council": "Inspired by Iceland",
+      "tourism": "Visit Iceland Official Site",
+      "england": "Icelandic Environment Agency"
+    }
+  },
+  "officialManagement": {
+    "title": "About Hverir",
+    "text": "Hverir (also known as Hverarönd) is one of Iceland's most active geothermal areas, located on the slopes of Námafjall mountain near Mývatn in North Iceland. The site is managed by the Icelandic Environment Agency as part of the Mývatn protected area, attracting visitors from around the world with its boiling mud pots, steam vents, and otherworldly landscapes."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": "We only collect the minimum amount of data necessary to provide our services. This data may include: browsing data (IP address, browser type, pages visited), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: March 2026",
+    "sections": [
+      {
+        "heading": "Content Usage",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. All content on this website is for informational purposes only. We are an independent third-party travel information website, unaffiliated with any tourist attraction, government agency, or commercial operator."
+      },
+      {
+        "heading": "Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Please verify important information through official channels before your trip."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used with permission. The use of Google Maps data complies with Google's Terms of Service."
+      },
+      {
+        "heading": "Limitation of Liability",
+        "content": "This website is provided 'as is' without any warranties. We are not responsible for any losses incurred from the use of information on this website, including but not limited to travel decisions made based on the content of this site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: March 2026. We use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "alwaysActive": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data."
+    },
+    "preferences": {
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences. Save your language preferences and website settings."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to display relevant ads and measure the effectiveness of advertising campaigns. They can show you relevant ads based on your interests."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling some cookies may affect the functionality of the website.",
+    "save": "Save Preferences",
+    "rejectAll": "Reject All",
+    "saved": "Settings Saved!"
+  }
+}
