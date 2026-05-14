@@ -284,9 +284,11 @@
     "disclaimer": "免责声明：本网站为独立运营的游客指南，与冰岛政府、Visit Iceland或Mývatn保护区官方管理机构无任何隶属关系。本站提供的信息仅供旅行参考，情况可能随季节变化。建议出行前通过官方渠道进行核实。",
     "officialResourcesTitle": "官方旅游资源",
     "officialLinks": {
-      "council": "Inspired by Iceland",
-      "tourism": "Visit Iceland官方网站",
-      "england": "冰岛环境局"
+      "inspired": "Inspired by Iceland",
+      "ust": "Umhverfisstofnun",
+      "northIceland": "Visit North Iceland",
+      "visitMyvatn": "Visit Mývatn",
+      "lmi": "Landmælingar Íslands"
     }
   },
   "officialManagement": {

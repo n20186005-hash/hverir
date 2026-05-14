@@ -284,9 +284,11 @@
     "disclaimer": "Disclaimer: This website is an independent visitor guide and is not affiliated with the Icelandic government, Visit Iceland, or the official management of Mývatn Protected Area. Information provided is for travel reference only. Conditions may vary by season. We recommend verifying with official sources before your visit.",
     "officialResourcesTitle": "Official Tourism Resources",
     "officialLinks": {
-      "council": "Inspired by Iceland",
-      "tourism": "Visit Iceland Official Site",
-      "england": "Icelandic Environment Agency"
+      "inspired": "Inspired by Iceland",
+      "ust": "Umhverfisstofnun",
+      "northIceland": "Visit North Iceland",
+      "visitMyvatn": "Visit Mývatn",
+      "lmi": "Landmælingar Íslands"
     }
   },
   "officialManagement": {
