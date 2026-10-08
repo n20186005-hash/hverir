@@ -1,16 +1,36 @@
 {
   "meta": {
-    "title": "Hverir｜冰岛最活跃的地热区 - Mývatn旅游指南",
-    "description": "冰岛Hverir地热区完整指南。了解游览建议、交通方式、拍照机位和旅行路线。Mývatn附近色彩最丰富的地热田，拥有沸腾的泥浆池和蒸汽喷口。"
+    "title": "Hverir 地热区｜停车收费、交通与游览指南（冰岛米湖）",
+    "description": "冰岛 Hverir（Námaskarð／Hverarönd）地热区游览指南：停车场全年全天收费与缴费方式、自驾与公交交通、沸腾泥浆池与蒸汽喷口、Námafjall 登山路线与安全注意事项。靠近米湖 Mývatn。"
   },
   "hero": {
     "title": "Hverir地热区",
     "subtitle": "冰岛最活跃的地热区，Mývatn附近",
-    "rating": "4.6(9,408)",
-    "reviewCount": "9,408 条真实评价",
+    "rating": "4.6(10,314)",
+    "reviewCount": "10,314 条评价",
+    "ratingNote": "Google 地图评分 · 2026年10月核实",
     "hours": "全年24小时开放",
     "openMaps": "查看位置",
-    "bgImage": "/gallery/hverir (1).jpg"
+    "parking": "停车：全年全天收费",
+    "bgImage": "/gallery/hverir-.jpg",
+    "bgImageAlt": "冰岛 Hverir 地热区：Námaskarð 的蒸汽喷口与沸腾泥浆池"
+  },
+  "visitSummary": {
+    "title": "游览速览",
+    "parkingLabel": "停车",
+    "parkingValue": "收费，全年全天",
+    "parkingHint": "按车型 1,400 / 3,000 / 7,000 冰岛克朗 · EasyPark App 或扫码缴费",
+    "admissionLabel": "门票",
+    "admissionValue": "免费，无需门票",
+    "hoursLabel": "开放时间",
+    "hoursValue": "24 小时，全年开放",
+    "addressLabel": "位置",
+    "addressValue": "J5RR+978, 660 Reykjahlíð, Iceland · 1号公路旁，距 Reykjahlíð 以东 6 公里",
+    "safetyLabel": "重要安全规则",
+    "safetyValue": "任何时候都请留在栈道与标记路径上",
+    "safetyHint": "地表薄壳下方即是沸腾的泥浆与蒸汽",
+    "parkingLink": "停车收费与缴费说明 →",
+    "mapLink": "在 Google 地图打开 →"
   },
   "intro": {
     "aboutTitle": "关于Hverir",
@@ -32,13 +52,14 @@
         "近距离观看沸腾的泥浆池和嘶嘶作响的蒸汽喷口",
         "超现实般的彩色矿物景观",
         "轻松的步行路径，停车场就在景点旁边",
-        "免费入场，24/7全年开放"
+        "免费入场，24/7全年开放（停车场收费）"
       ]
     },
     "alsoKnownAs": {
       "title": "别名",
       "items": [
         "Hverarönd",
+        "Námaskarð",
         "Námafjall地热区",
         "Hverir地热田"
       ]
@@ -55,7 +76,7 @@
     "city": "地区 / 位置",
     "cityValue": "冰岛东北部，靠近Mývatn和Reykjahlíð",
     "googleRating": "谷歌评分",
-    "ratingValue": "4.6 (9,408 条真实评价)",
+    "ratingValue": "4.6 / 5 · 10,314 条评价（Google 地图，2026年10月核实）",
     "phone": "咨询电话",
     "phoneValue": "无（自然景点，现场无工作人员）",
     "address": "地址",
@@ -75,18 +96,22 @@
     "winter": "冬季（11月-3月）",
     "winterTime": "24 小时（白天 10:00-16:00）",
     "christmas": "停车场",
-    "christmasTime": "24 小时（免费停车）",
+    "christmasTime": "24 小时（收费停车）",
     "rosenborg": "步行小径",
     "rosenborgTime": "开放（请留在标记的小径上）"
   },
   "tickets": {
-    "title": "门票价格",
+    "title": "门票与停车费",
+    "parkingTitle": "Hverir 停车场（收费）",
+    "parkingPrice": "1,400 / 3,000 / 7,000 冰岛克朗",
+    "parkingDesc": "1号环岛公路旁的停车场全年、全天、每天收费。费用按车型区分，可通过 EasyPark App 或现场标识上的二维码缴费。地热区本身免费入场。",
+    "parkingLink": "完整停车指南",
     "fortress": "地热田入场",
     "free": "免费开放",
-    "fortressDesc": "Hverir是由国家管理的自然景点。无需入场费，也不需要门票。",
+    "fortressDesc": "Hverir 无需入场费，也不需要门票；只有停车场收费。",
     "catacombs": "停车场",
-    "catacombsDesc": "1号环岛公路旁有免费停车场。旺季期间车位有限。",
-    "catacombsNote": "停车免费，除了极端旺季（7月）外，通常车位充足。",
+    "catacombsDesc": "1号环岛公路旁的收费停车场。旺季期间车位有限。",
+    "catacombsNote": "停车全年收费，7月容易停满；建议早到或傍晚前往。",
     "garden": "导游服务",
     "gardenPrice": "可选（额外费用）",
     "rosenborg": "附近的Mývatn自然温泉",
@@ -104,7 +129,7 @@
     "walking": {
       "title": "自驾（强烈推荐）",
       "badge": "推荐",
-      "desc": "驾驶冰岛1号环岛公路（Ring Road）北上。Hverir有清晰的路标，就在公路旁边，距离阿克雷里（Akureyri）约105公里，距离Reykjahlíð（Mývatn）仅6公里。现场有免费停车场。"
+      "desc": "驾驶冰岛1号环岛公路（Ring Road）北上。Hverir有清晰的路标，就在公路旁边，距离阿克雷里（Akureyri）约105公里，距离Reykjahlíð（Mývatn）仅6公里。现场停车场全年全天收费。"
     },
     "bus": "公交",
     "car": {
@@ -112,20 +137,20 @@
       "desc": "乘坐Strætó 56路公交车（阿克雷里-Mývatn线）。告诉司机在Hverir（Námafjall）下车。由于服务有限，请在Straeto.is网站上查看最新时刻表。"
     },
     "metro": "自驾（推荐）",
-    "metroDesc": "就在1号环岛公路旁，距离Reykjahlíð仅6公里。现场免费停车。这是探索该地区最灵活的方式。",
+    "metroDesc": "就在1号环岛公路旁，距离Reykjahlíð仅6公里。现场设收费停车场（EasyPark App 或扫码缴费）。这是探索该地区最灵活的方式。",
     "train": "从雷克雅未克出发",
     "trainDesc": "距离雷克雅未克约480公里。沿1号环岛公路向东北行驶约6小时。或者，乘坐国内航班到阿克雷里（45分钟），然后驾车1小时到达Hverir。",
     "busDesc": "Strætó 56路公交车在Hverir停靠。请在Straeto.is上查看最新时刻表。服务非常有限，仅推荐给预算有限的旅行者。",
     "taxi": "从阿克雷里机场出发",
     "taxiDesc": "距离阿克雷里约105公里。在机场租车（强烈推荐）并沿1号环岛公路行驶约1.5小时。出租车昂贵，不推荐。",
     "rideshare": "停车场",
-    "rideshareDesc": "1号环岛公路旁有免费停车场。车位有限但通常足够。不允许过夜露营。",
+    "rideshareDesc": "1号环岛公路旁设有收费停车场。车位有限，7月容易停满。不允许过夜停留与露营。",
     "cycling": "从停车场步行",
     "cyclingDesc": "从停车场到主要地热区仅需步行1-2分钟。木制栈道带领您穿越整个景区。",
     "fromStation": "从Reykjahlíð（Mývatn）出发",
     "fromStationDesc": "仅6公里。开车7分钟，或沿1号环岛公路和徒步小径步行1.5小时（风景优美）。",
-    "fromNyhavn": "从阿克雷里出发",
-    "fromNyhavnDesc": "约105公里，沿1号环岛公路（Route 1）向东北行驶。开车约1.5小时。沿途经过美丽的火山景观。"
+    "fromAkureyri": "从阿克雷里出发",
+    "fromAkureyriDesc": "约105公里，沿1号环岛公路（Route 1）向东北行驶。开车约1.5小时。沿途经过美丽的火山景观。"
   },
   "knowledge": {
     "title": "Hverir的地质与文化",
@@ -148,7 +173,7 @@
     "title": "游览路线",
     "overview": "建议安排大半天（3-4小时）的时间。到达Hverir后，沿着栈道穿越地热田，然后攀登Námafjall山俯瞰全景。在行程结束时，在附近的Mývatn自然温泉放松身心。",
     "steps": [
-      "到达与停车：在1号环岛公路旁的免费停车场停车，步行仅需1分钟即可到达景区",
+      "到达与停车：在1号环岛公路旁的收费停车场停车（EasyPark App 或现场扫码缴费），步行仅需1分钟即可到达景区",
       "穿越地热田：沿着木制栈道行走，观看沸腾的泥浆池、蒸汽喷口和色彩缤纷的矿物沉积物",
       "拍照停留：以背景中升起的蒸汽为衬托，捕捉超现实的景观",
       "攀登Námafjall：爬上Hverir后面的山（往返约30-45分钟），俯瞰Mývatn的全景",
@@ -223,57 +248,74 @@
     ],
     "viewAll": "在 Google Maps 查看位置",
     "photos": [
-      { "src": "/gallery/hverir (1).jpg", "alt": "Hverir地热田全景" },
-      { "src": "/gallery/hverir (2).jpg", "alt": "沸腾泥浆池特写" },
-      { "src": "/gallery/hverir (3).jpg", "alt": "蒸汽喷口与喷气孔" },
-      { "src": "/gallery/hverir (4).jpg", "alt": "彩色矿物沉积物" },
-      { "src": "/gallery/hverir (5).jpg", "alt": "Námafjall山" },
-      { "src": "/gallery/hverir (6).jpg", "alt": "木制栈道" },
-      { "src": "/gallery/hverir (7).jpg", "alt": "山顶全景视角" },
-      { "src": "/gallery/hverir (8).jpg", "alt": "硫磺晶体特写" },
-      { "src": "/gallery/hverir (9).jpg", "alt": "地热区域景观" },
-      { "src": "/gallery/hverir (10).jpg", "alt": "地面升起的蒸汽" },
-      { "src": "/gallery/hverir (11).jpg", "alt": "Mývatn湖远景" },
-      { "src": "/gallery/hverir (12).jpg", "alt": "Hverir区域全景" }
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Hverir地热田全景"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "沸腾泥浆池特写"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "蒸汽喷口与喷气孔"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "彩色矿物沉积物"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Námafjall山"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "木制栈道"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "山顶全景视角"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "硫磺晶体特写"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "地热区域景观"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "地面升起的蒸汽"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Mývatn湖远景"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Hverir区域全景"
+      }
     ]
   },
   "reviews": {
-    "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
-    "items": [
-      {
-        "name": "张明",
-        "date": "2026年4月",
-        "rating": 5,
-        "text": "绝对是超现实的体验！从地面升起的色彩和蒸汽让我感觉像是在火星上。免费、交通便利、令人难忘。"
-      },
-      {
-        "name": "李华",
-        "date": "2026年3月",
-        "rating": 5,
-        "text": "Hverir后面的Námafjall山登山是我们环岛公路之旅的亮点。Mývatn和地热区的全景令人叹为观止！"
-      },
-      {
-        "name": "王芳",
-        "date": "2026年2月",
-        "rating": 4,
-        "text": "如此独特的景观！硫磺味很浓，所以要做好准备。请留在栈道上，不要错过登山。"
-      },
-      {
-        "name": "陈伟",
-        "date": "2026年1月",
-        "rating": 5,
-        "text": "免费且24/7开放——我们在夏至期间在午夜到访，几乎只有我们自己在那里。极昼的光线令人着迷。"
-      }
-    ]
+    "title": "评分与游客反馈",
+    "declaration": "Hverir 在 Google 地图上获得 4.6 / 5 分，共 10,314 条评价（2026年10月核实）。本站不转载具体的游客留言，请前往 Google 地图查看由作者本人署名并标注日期的评价。",
+    "ratingLabel": "Google 地图评分",
+    "ratingValue": "4.6 / 5",
+    "countLabel": "评价数量",
+    "countValue": "10,314 条",
+    "checkedLabel": "核实时间",
+    "checkedValue": "2026年10月",
+    "moreReviews": "在 Google 地图查看评价"
   },
   "mapSection": {
     "title": "交通指南",
     "subtitle": "J5RR+978, 660 Reykjahlíð, Iceland",
     "openMaps": "在 Google Maps 查看",
     "openMapsUrl": "https://maps.app.goo.gl/XR4FSQY6QcQvKWSq8",
-    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1608.800!2d-16.8886!3d65.6392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48c7e5a8c8c8c8c8%3A0x8c8c8c8c8c8c8c8c!2sHverir!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+    "embedUrl": "https://maps.google.com/maps?q=Hverir%20Geothermal%20Area%2C%20N%C3%A1maskar%C3%B0%2C%20Iceland&z=15&output=embed",
+    "mapTitle": "Google 地图 – 冰岛 Námaskarð 的 Hverir 地热区"
   },
   "footer": {
     "logo": "Hverir地热区",
@@ -284,12 +326,16 @@
     "disclaimer": "免责声明：本网站为独立运营的游客指南，与冰岛政府、Visit Iceland或Mývatn保护区官方管理机构无任何隶属关系。本站提供的信息仅供旅行参考，情况可能随季节变化。建议出行前通过官方渠道进行核实。",
     "officialResourcesTitle": "官方旅游资源",
     "officialLinks": {
+      "parking": "Hverir 停车运营方（Sannir）",
       "inspired": "Inspired by Iceland",
       "ust": "Umhverfisstofnun",
       "northIceland": "Visit North Iceland",
       "visitMyvatn": "Visit Mývatn",
       "lmi": "Landmælingar Íslands"
-    }
+    },
+    "exploreTitle": "行前规划",
+    "exploreParking": "停车收费与缴费",
+    "exploreHike": "Námafjall 登山"
   },
   "officialManagement": {
     "title": "关于Hverir",
@@ -297,10 +343,22 @@
   },
   "header": {
     "home": "首页",
+    "parking": "停车",
+    "hike": "Námafjall 登山",
     "gallery": "图集",
     "reviews": "评价",
     "map": "地图",
     "backToHome": "返回首页"
+  },
+  "explore": {
+    "title": "行前规划",
+    "subtitle": "针对游客最常问的两个问题，提供详细说明",
+    "parkingTitle": "停车收费与缴费",
+    "parkingDesc": "全年全天收费：按车型的费率、EasyPark 与扫码缴费方式、当日票规则，以及如何避免未缴费附加费。",
+    "parkingCta": "阅读停车指南",
+    "hikeTitle": "Námafjall 登山",
+    "hikeDesc": "Hverir 后方短而陡的山脊路线：登山口位置、山顶景观，以及强风、结冰与地热地面的安全建议。",
+    "hikeCta": "阅读登山指南"
   },
   "privacy": {
     "title": "隐私政策",
@@ -370,5 +428,209 @@
     "save": "保存偏好设置",
     "rejectAll": "拒绝一切",
     "saved": "设置已保存！"
+  },
+  "parking": {
+    "meta": {
+      "title": "Hverir 停车收费与缴费方式（冰岛 Námaskarð）",
+      "description": "Hverir 停车场全年、全天、每天收费。按车型费率为 1,400 / 3,000 / 7,000 冰岛克朗，可用 EasyPark App 或现场二维码缴费；含当日票规则、露营规定与 4,500 克朗未缴费附加费说明。"
+    },
+    "title": "Hverir 停车：收费与缴费方式",
+    "intro": "Hverir（路牌亦标示 Hverarönd / Námaskarð）的停车场就在1号环岛公路（Route 1）旁，步行 1–2 分钟即可抵达地热区。停车场位于私有土地上，由私人停车运营方管理，全年、全天、每天收费，冬季也不例外。进入 Hverir 地热区本身免费。",
+    "facts": [
+      {
+        "label": "停车收费",
+        "value": "收费，全年全天"
+      },
+      {
+        "label": "运营方标示费率",
+        "value": "1,400 / 3,000 / 7,000 冰岛克朗（按车型）"
+      },
+      {
+        "label": "缴费方式",
+        "value": "EasyPark App、现场标识二维码、缴费机"
+      },
+      {
+        "label": "前 5 分钟",
+        "value": "免费"
+      },
+      {
+        "label": "过夜露营",
+        "value": "不允许"
+      },
+      {
+        "label": "运营方",
+        "value": "Sannir Landvættir · +354 587 0444"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Hverir 停车多少钱？",
+        "items": [
+          "运营方的 Hverir 页面列出三档费率：1,400、3,000、7,000 冰岛克朗，按车型类别收取。",
+          "费率可能调整，且 EasyPark App 会在停车费之外另收服务费。付款前请先确认系统为您的车辆显示的金额。",
+          "地热区不收入场费——只有停车场收费。"
+        ]
+      },
+      {
+        "heading": "如何缴费",
+        "items": [
+          "EasyPark App：扫描停车场标识上的二维码下载 App，登记车辆后开始计费。",
+          "CameraPark：在 App 中开启「CameraPark」后，车辆进场即自动扣款。",
+          "缴费机：现场标识上设有带二维码的电子缴费机。",
+          "线上缴费：运营方网站（sannir.is/verkefni）支持当日线上付款，选择 Hverir 站点即可。",
+          "请务必在当日完成缴费，避免产生额外的未缴费附加费。"
+        ]
+      },
+      {
+        "heading": "停车前需要知道的规定",
+        "items": [
+          "停车场前 5 分钟免费。",
+          "当日票有效至当日午夜，当天可多次进出。",
+          "停车场不允许过夜停留与露营。",
+          "若当日未完成缴费，系统会向车辆登记车主寄发账单，除当日停车费外另加 4,500 冰岛克朗未缴费附加费、250 冰岛克朗电子账单费，以及第三方可能收取的交易手续费。",
+          "停车场车位不多，7月容易停满；建议清晨或傍晚前往。"
+        ]
+      },
+      {
+        "heading": "停车场确切位置",
+        "items": [
+          "位于1号环岛公路（Route 1）Námaskarð 山口旁，距 Reykjahlíð（Mývatn）以东约 6 公里，距阿克雷里约 105 公里。",
+          "Plus Code：J5RR+978, 660 Reykjahlíð, Iceland。",
+          "从停车场经木栈道 1–2 分钟即可进入地热区。"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Hverir 停车是免费的吗？",
+        "a": "不是。Hverir 停车场全年、全天、每天收费。运营方标示的费率为 1,400、3,000、7,000 冰岛克朗，按车型类别收取。缴费前请先确认您的车辆适用金额。"
+      },
+      {
+        "q": "Hverir 停车费可以在线缴吗？",
+        "a": "可以，但仅限当日。可在停车运营方网站选择 Hverir 站点完成线上付款，或使用 EasyPark App 扫描停车场标识上的二维码缴费。付款需在到访当日完成。"
+      },
+      {
+        "q": "没缴 Hverir 停车费会怎样？",
+        "a": "若当日未完成缴费，系统会向车辆登记车主寄发账单，金额为当日停车费外加 4,500 冰岛克朗未缴费附加费、250 冰岛克朗电子账单费，以及第三方可能收取的交易手续费。"
+      },
+      {
+        "q": "Hverir 附近有免费停车吗？",
+        "a": "地热区旁的正规停车场是 Hverir 唯一指定停车处，且为收费停车场。请勿在路肩或越野停车：周边地面属于受保护且脆弱的地热表层，在1号公路上停车也有危险。"
+      },
+      {
+        "q": "可以在 Hverir 停车场过夜或露营吗？",
+        "a": "不可以。停车场不允许过夜停留与露营，且当日票于午夜失效。"
+      },
+      {
+        "q": "进入 Hverir 需要门票吗？",
+        "a": "不需要。地热区免费开放，全年全天 24 小时可进入，无需门票或预约；只有停车场收费。"
+      },
+      {
+        "q": "Hverir 停车场可以停多久？",
+        "a": "当日票覆盖当天至午夜，期间可多次进出。多数游客在 Hverir 停留 1–2 小时；若加登 Námafjall 山，约需 3–4 小时。"
+      }
+    ],
+    "sourceLabel": "查询最新费率与缴费：Hverir 停车运营方（Sannir Landvættir）",
+    "updated": "停车信息最后核实：2026年10月"
+  },
+  "hike": {
+    "meta": {
+      "title": "Hverir 后方 Námafjall 登山路线、景观与安全建议",
+      "description": "Námafjall（Námaskarð）登山指南：登山口位置、往返所需时间、山顶可见景观，以及强风、结冰与地热地面的安全注意事项。"
+    },
+    "title": "Hverir 后方的 Námafjall 登山路线",
+    "intro": "Námafjall 是紧邻 Hverir 地热区后方隆起的流纹岩山脊。从停车场出发的登顶路线短而陡，登顶后可俯瞰整个 Hverir 蒸汽地热田，远眺米湖（Mývatn）与 Krafla 火山口。这是米湖地区最佳观景点之一，除停车费外无需额外花费。",
+    "facts": [
+      {
+        "label": "登山口",
+        "value": "1号公路 Námaskarð 的 Hverir 停车场"
+      },
+      {
+        "label": "往返时间",
+        "value": "登顶往返约 30–45 分钟"
+      },
+      {
+        "label": "难度",
+        "value": "路程短但坡度陡，碎石松动"
+      },
+      {
+        "label": "路面状况",
+        "value": "未铺装山径，无台阶与扶手"
+      },
+      {
+        "label": "最佳季节",
+        "value": "春末至初秋；冬季结冰"
+      },
+      {
+        "label": "费用",
+        "value": "徒步免费 —— Hverir 停车收费"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "登山口在哪里？",
+        "items": [
+          "先在1号公路旁的 Hverir 收费停车场停车，沿栈道穿过地热区。",
+          "登山路线的起点位于地热区另一侧、蒸汽喷口后方。",
+          "请沿最明显踩出的路径行走：这是未维护的山径，没有正式步道标识。"
+        ]
+      },
+      {
+        "heading": "山顶能看到什么",
+        "items": [
+          "脚下是整个 Hverir 蒸汽地热田，喷气孔与沸腾泥浆池一览无遗。",
+          "向西可见米湖（Mývatn），向东北可望 Krafla 火山系统。",
+          "Námafjall 本身的流纹岩坡面——黄、红、白的矿物染色。",
+          "日落与夏季极昼光线是这里最受欢迎的拍摄条件。"
+        ]
+      },
+      {
+        "heading": "安全建议",
+        "items": [
+          "远离地热地面：覆盖在沸腾泥浆上的浅色薄壳随时可能塌陷。在地热区内只走木栈道。",
+          "山脊风力远大于停车场，即使在夏季也应携带防风外套。",
+          "冬季路面结冰且日照时间短（约 10:00–16:00），请加装冰爪并提早折返。",
+          "不要攀爬山脊东侧冒蒸汽的坡面，该处地面仍在高温活动。",
+          "独自前往请告知他人行程，并携带电量充足的手机。"
+        ]
+      },
+      {
+        "heading": "与当日行程的搭配",
+        "items": [
+          "Hverir 地热区：栈道游览 30–60 分钟。",
+          "Námafjall 山脊：往返再加约 30–45 分钟。",
+          "Krafla 与 Víti 爆炸火山口：车程约 10 分钟。",
+          "米湖自然温泉（Mývatn Nature Baths）：车程约 20 分钟，适合安排在行程最后。"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Námafjall 登山需要多久？",
+        "a": "多数游客从 Hverir 停车场往返山脊约需 30–45 分钟。若要在山顶拍照观景，建议预留更多时间。"
+      },
+      {
+        "q": "Námafjall 登山难吗？",
+        "a": "路程短但坡度陡，路面为松动碎石，且没有台阶或扶手。穿着合适鞋履、体力正常的徒步者可轻松完成；不适合婴儿车、轮椅或在碎石路面行走不稳的人。"
+      },
+      {
+        "q": "Námafjall 登山口在哪里？",
+        "a": "从1号公路 Námaskarð 的 Hverir 停车场出发。先沿栈道穿过地热区，登山路径起点位于蒸汽喷口另一侧。"
+      },
+      {
+        "q": "冬季可以登 Námafjall 吗？",
+        "a": "可以，但要看条件：路面常结冰，且日照时间仅约 10:00–16:00。请携带冰爪、防风外套与头灯，天气变化时应及早折返。"
+      },
+      {
+        "q": "Námafjall 和 Hverir 是同一个地方吗？",
+        "a": "是同一区域的不同名称。Hverir（又称 Hverarönd）指1号公路旁的地热区；Námafjall 是其后方的山，Námaskarð 则是公路穿越的山口。"
+      },
+      {
+        "q": "登 Námafjall 需要付费吗？",
+        "a": "徒步免费，全天开放。但 Hverir 停车场全年全天收费，停车需缴费。"
+      }
+    ],
+    "sourceLabel": "当地旅游信息：Visit North Iceland / Visit Mývatn",
+    "updated": "登山信息最后核实：2026年10月"
   }
 }

@@ -1,7 +1,10 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const locale = useLocale();
+  const embedBase = t('embedUrl');
+  const embedSrc = `${embedBase}${embedBase.includes('?') ? '&' : '?'}hl=${locale === 'zh' ? 'zh-CN' : 'en'}`;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -25,14 +28,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src={t('embedUrl')}
+            src={embedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - St. Naum Monastery"
+            title={t('mapTitle')}
           />
         </div>
 

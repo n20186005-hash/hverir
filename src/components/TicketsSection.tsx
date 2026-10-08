@@ -1,12 +1,13 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/navigation';
 
 export default function TicketsSection() {
   const t = useTranslations('tickets');
 
   return (
-    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+    <section id="tickets" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -16,8 +17,47 @@ export default function TicketsSection() {
         </h2>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
+        {/* Parking is paid — stated before anything about free admission */}
+        <div
+          className="mb-8 rounded-2xl p-5 sm:p-6"
+          style={{ background: 'var(--bg-tertiary)', border: '2px solid var(--accent)' }}
+        >
+          <div className="flex items-start gap-4">
+            <svg
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="var(--accent)"
+              strokeWidth="2"
+              className="flex-shrink-0 mt-0.5"
+            >
+              <rect x="3" y="3" width="18" height="18" rx="2" />
+              <path d="M9 17V9h6v8" />
+            </svg>
+            <div>
+              <p className="font-semibold" style={{ color: 'var(--text-primary)' }}>
+                {t('parkingTitle')}
+              </p>
+              <p className="text-lg font-bold mb-2" style={{ color: 'var(--accent)' }}>
+                {t('parkingPrice')}
+              </p>
+              <p className="text-sm leading-relaxed mb-3" style={{ color: 'var(--text-secondary)' }}>
+                {t('parkingDesc')}
+              </p>
+              <Link
+                href="/parking"
+                className="text-sm font-medium hover:underline"
+                style={{ color: 'var(--accent)' }}
+              >
+                {t('parkingLink')} →
+              </Link>
+            </div>
+          </div>
+        </div>
+
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          {/* Garden Free */}
+          {/* Optional guided tours */}
           <div
             className="rounded-2xl p-6 sm:p-8"
             style={{ background: 'var(--bg-tertiary)', border: '2px solid var(--accent)' }}
@@ -40,7 +80,7 @@ export default function TicketsSection() {
             </div>
           </div>
 
-          {/* Rosenborg Castle */}
+          {/* Nearby Mývatn Nature Baths */}
           <div
             className="rounded-2xl p-6 sm:p-8"
             style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
@@ -56,7 +96,7 @@ export default function TicketsSection() {
           </div>
         </div>
 
-        {/* Copenhagen Card */}
+        {/* Námafjall hike */}
         <div
           className="mt-6 rounded-xl p-5 flex items-start gap-4"
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}

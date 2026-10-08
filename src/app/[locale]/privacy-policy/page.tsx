@@ -1,5 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
-import { useTranslations, useLocale, useMessages } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
+import { Link } from '@/i18n/navigation';
+import { absoluteUrl, languageAlternates } from '@/lib/site';
 import type { Metadata } from 'next';
 
 export async function generateMetadata({
@@ -8,41 +10,29 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const localePrefix = locale === 'it' ? '' : locale === 'en' ? '/en' : locale === 'fr' ? '/fr' : '/zh-Hant';
-  const itUrl = `${baseUrl}/privacy-policy`;
-  const enUrl = `${baseUrl}/en/privacy-policy`;
-  const frUrl = `${baseUrl}/fr/privacy-policy`;
-  const zhUrl = `${baseUrl}/zh-Hant/privacy-policy`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const messages = (await import(`@/messages/${locale}.json`)).default;
 
   return {
+    title: `${messages.privacy.title} | Hverir`,
     alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      canonical: absoluteUrl(locale, '/privacy-policy'),
+      languages: languageAlternates('/privacy-policy'),
     },
+    robots: { index: false, follow: true },
   };
 }
 
 function PrivacyContent() {
   const t = useTranslations('privacy');
   const ht = useTranslations('header');
-  const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
   const sections = (messages?.privacy?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
-        <a
-          href={homeHref}
+        <Link
+          href="/"
           className="inline-flex items-center gap-2 text-sm font-medium mb-10 transition-colors"
           style={{ color: 'var(--accent)' }}
         >
@@ -51,7 +41,7 @@ function PrivacyContent() {
             <polyline points="12 19 5 12 12 5" />
           </svg>
           {ht('backToHome')}
-        </a>
+        </Link>
 
         <h1 className="font-display text-3xl sm:text-4xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>
           {t('title')}

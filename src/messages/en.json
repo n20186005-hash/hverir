@@ -1,16 +1,36 @@
 {
   "meta": {
-    "title": "Hverir｜Iceland's Most Active Geothermal Area - Mývatn Travel Guide",
-    "description": "Complete guide to Hverir geothermal area in Iceland. Learn about visiting tips, transportation, photo spots, and travel routes. The most colorful geothermal field near Mývatn with boiling mud pots and steam vents."
+    "title": "Hverir Geothermal Area – Parking Fees & Visitor Guide",
+    "description": "Explore Hverir (Námaskarð) near Lake Mývatn, Iceland. Find parking fees, payment options, directions, bubbling mud pools, hiking tips and visitor safety advice."
   },
   "hero": {
     "title": "Hverir",
     "subtitle": "Iceland's Most Active Geothermal Area, Near Mývatn",
-    "rating": "4.6(9,408)",
-    "reviewCount": "9,408 real reviews",
+    "rating": "4.6(10,314)",
+    "reviewCount": "10,314 reviews",
+    "ratingNote": "Google Maps rating · checked October 2026",
     "hours": "Open 24 hours, year-round",
     "openMaps": "View Location",
-    "bgImage": "/gallery/hverir (1).jpg"
+    "parking": "Parking: paid 24/7",
+    "bgImage": "/gallery/hverir-.jpg",
+    "bgImageAlt": "Hverir geothermal area: steam vents and boiling mud pots at Námaskarð, Iceland"
+  },
+  "visitSummary": {
+    "title": "Visit at a Glance",
+    "parkingLabel": "Parking",
+    "parkingValue": "Paid, 24 hours a day, year-round",
+    "parkingHint": "1,400 / 3,000 / 7,000 ISK by vehicle category · EasyPark or QR code",
+    "admissionLabel": "Admission",
+    "admissionValue": "Free, no ticket needed",
+    "hoursLabel": "Opening Hours",
+    "hoursValue": "24 hours, year-round",
+    "addressLabel": "Location",
+    "addressValue": "J5RR+978, 660 Reykjahlíð, Iceland · 6 km east of Reykjahlíð on Route 1",
+    "safetyLabel": "Key Safety Rule",
+    "safetyValue": "Stay on the marked paths at all times",
+    "safetyHint": "The crust is thin and the ground beneath is boiling",
+    "parkingLink": "Parking fees & payment →",
+    "mapLink": "Open in Google Maps →"
   },
   "intro": {
     "aboutTitle": "About Hverir",
@@ -31,14 +51,15 @@
       "items": [
         "Boiling mud pots and hissing steam vents up close",
         "Otherworldly colorful mineral landscapes",
-        "Easy walkable paths with parking right next to the site",
-        "Free admission, open 24/7, year-round access"
+        "Easy walkable paths with a car park right next to the site",
+        "Free admission, open 24/7, year-round (the car park is paid)"
       ]
     },
     "alsoKnownAs": {
       "title": "Also Known As",
       "items": [
         "Hverarönd",
+        "Námaskarð",
         "Námafjall Geothermal Area",
         "Hverir Geothermal Field"
       ]
@@ -55,7 +76,7 @@
     "city": "Region / Location",
     "cityValue": "Northeast Iceland, near Mývatn and Reykjahlíð",
     "googleRating": "Google Rating",
-    "ratingValue": "4.6 (9,408 real reviews)",
+    "ratingValue": "4.6 / 5 · 10,314 reviews (Google Maps, checked October 2026)",
     "phone": "Info Phone",
     "phoneValue": "N/A (Natural site, no staff on-site)",
     "address": "Address",
@@ -74,19 +95,23 @@
     "summerTime": "24 Hours (Midnight Sun)",
     "winter": "Winter (November-March)",
     "winterTime": "24 Hours (Daylight 10:00-16:00)",
-    "christmas": "Parking Area",
-    "christmasTime": "24 Hours (Free Parking)",
+    "christmas": "Car Park",
+    "christmasTime": "24 Hours (Paid Parking)",
     "rosenborg": "Walking Paths",
     "rosenborgTime": "Open (Stay on marked trails)"
   },
   "tickets": {
-    "title": "Ticket Prices",
+    "title": "Ticket Prices & Parking Fees",
+    "parkingTitle": "Parking at Hverir (paid)",
+    "parkingPrice": "1,400 / 3,000 / 7,000 ISK",
+    "parkingDesc": "The car park beside the Ring Road is chargeable 24 hours a day, every day of the year. Rates depend on vehicle category; pay with the EasyPark app or the QR code on the signs. Access to the geothermal field itself is free.",
+    "parkingLink": "Full parking guide",
     "fortress": "Geothermal Field Access",
     "free": "Free Admission",
-    "fortressDesc": "Hverir is a natural site managed by the state. There is no admission fee, and no tickets are required.",
-    "catacombs": "Parking",
-    "catacombsDesc": "Free parking available next to the Ring Road. Spaces are limited during peak season.",
-    "catacombsNote": "Parking is free and usually sufficient except during extreme peak season (July).",
+    "fortressDesc": "Hverir has no admission fee, and no tickets are required. Only the car park is chargeable.",
+    "catacombs": "Car Park",
+    "catacombsDesc": "Paid parking next to the Ring Road. Spaces are limited during peak season.",
+    "catacombsNote": "Parking is paid year-round and can fill up in July; arrive early or late in the day.",
     "garden": "Guided Tours",
     "gardenPrice": "Optional (Extra Cost)",
     "rosenborg": "Nearby Mývatn Nature Baths",
@@ -104,7 +129,7 @@
     "walking": {
       "title": "By Car (Highly Recommended)",
       "badge": "Recommended",
-      "desc": "Drive the Ring Road (Route 1) in North Iceland. Hverir is clearly signed and located directly next to the road, about 105 km from Akureyri and 6 km from Reykjahlíð (Mývatn). Free parking is available on-site."
+      "desc": "Drive the Ring Road (Route 1) in North Iceland. Hverir is clearly signed and located directly next to the road, about 105 km from Akureyri and 6 km from Reykjahlíð (Mývatn). The car park is paid 24/7, year-round."
     },
     "bus": "By Bus",
     "car": {
@@ -112,20 +137,20 @@
       "desc": "Take the Strætó bus route 56 (Akureyri-Mývatn). Ask the driver to stop at Hverir (Námafjall). Check the latest schedule on the Straeto.is website as service is limited."
     },
     "metro": "By Car (Recommended)",
-    "metroDesc": "Directly on the Ring Road, 6 km from Reykjahlíð. Free parking on-site. The most flexible way to explore the area.",
+    "metroDesc": "Directly on the Ring Road, 6 km from Reykjahlíð. Paid car park on-site (EasyPark or QR code). The most flexible way to explore the area.",
     "train": "From Reykjavik",
     "trainDesc": "About 480 km from Reykjavik. Drive the Ring Road northeast for about 6 hours. Alternatively, take a domestic flight to Akureyri (45 mins) then drive 1 hour to Hverir.",
     "busDesc": "Strætó bus route 56 stops at Hverir. Check the latest schedule on Straeto.is. Very limited service, recommended only for budget travelers.",
     "taxi": "From Akureyri Airport",
     "taxiDesc": "About 105 km from Akureyri. Rent a car at the airport (highly recommended) and drive about 1.5 hours via the Ring Road. Taxis are expensive and not recommended.",
     "rideshare": "Parking",
-    "rideshareDesc": "Free parking lot right next to the Ring Road. Spaces are limited but usually sufficient. No overnight camping allowed.",
+    "rideshareDesc": "Paid car park right next to the Ring Road. Spaces are limited and fill up in July. Overnight stays and camping are not allowed.",
     "cycling": "Walking (from parking)",
     "cyclingDesc": "From the parking lot, it's a short 1-2 minute walk to the main geothermal area. Wooden boardwalks lead you through the site.",
     "fromStation": "From Reykjahlíð (Mývatn)",
     "fromStationDesc": "Only 6 km away. A quick 7-minute drive, or a 1.5-hour scenic walk along the Ring Road and hiking trails.",
-    "fromNyhavn": "From Akureyri",
-    "fromNyhavnDesc": "About 105 km via the Ring Road (Route 1). Drive northeast for about 1.5 hours. The route passes through beautiful volcanic landscapes."
+    "fromAkureyri": "From Akureyri",
+    "fromAkureyriDesc": "About 105 km via the Ring Road (Route 1). Drive northeast for about 1.5 hours. The route passes through beautiful volcanic landscapes."
   },
   "knowledge": {
     "title": "The Geology & Culture of Hverir",
@@ -148,7 +173,7 @@
     "title": "Recommended Route",
     "overview": "A half-day trip (3-4 hours) is recommended. Arrive at Hverir, walk the boardwalks through the geothermal field, then hike up Námafjall mountain for panoramic views. End your visit with a relaxing soak at the nearby Mývatn Nature Baths.",
     "steps": [
-      "Arrive & park: Park in the free lot next to the Ring Road, just a 1-minute walk to the site",
+      "Arrive & park: Park in the paid lot next to the Ring Road (EasyPark or QR code on the signs), a 1-minute walk to the site",
       "Walk the geothermal field: Follow the wooden boardwalks to see boiling mud pots, steam vents, and colorful mineral deposits",
       "Photo stop: Capture the surreal landscape with steam rising in the background",
       "Hike Námafjall: Climb the mountain behind Hverir (about 30-45 mins round trip) for panoramic views of Mývatn",
@@ -223,57 +248,74 @@
     ],
     "viewAll": "View on Google Maps",
     "photos": [
-      { "src": "/gallery/hverir (1).jpg", "alt": "Hverir Geothermal Field Overview" },
-      { "src": "/gallery/hverir (2).jpg", "alt": "Boiling Mud Pots Close-up" },
-      { "src": "/gallery/hverir (3).jpg", "alt": "Steam Vents and Fumaroles" },
-      { "src": "/gallery/hverir (4).jpg", "alt": "Colorful Mineral Deposits" },
-      { "src": "/gallery/hverir (5).jpg", "alt": "Námafjall Mountain" },
-      { "src": "/gallery/hverir (6).jpg", "alt": "Wooden Boardwalk Path" },
-      { "src": "/gallery/hverir (7).jpg", "alt": "Panoramic View from Summit" },
-      { "src": "/gallery/hverir (8).jpg", "alt": "Sulfur Crystals Close-up" },
-      { "src": "/gallery/hverir (9).jpg", "alt": "Geothermal Area Landscape" },
-      { "src": "/gallery/hverir (10).jpg", "alt": "Steam Rising from Ground" },
-      { "src": "/gallery/hverir (11).jpg", "alt": "Mývatn Lake Distant View" },
-      { "src": "/gallery/hverir (12).jpg", "alt": "Hverir Area Panorama" }
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Hverir Geothermal Field Overview"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Boiling Mud Pots Close-up"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Steam Vents and Fumaroles"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Colorful Mineral Deposits"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Námafjall Mountain"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Wooden Boardwalk Path"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Panoramic View from Summit"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Sulfur Crystals Close-up"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Geothermal Area Landscape"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Steam Rising from Ground"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Mývatn Lake Distant View"
+      },
+      {
+        "src": "/gallery/hverir-.jpg",
+        "alt": "Hverir Area Panorama"
+      }
     ]
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Emma T.",
-        "date": "April 2026",
-        "rating": 5,
-        "text": "Absolutely otherworldly! The colors and steam rising from the ground made me feel like I was on Mars. Free, accessible, and unforgettable."
-      },
-      {
-        "name": "James L.",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "The hike up Námafjall mountain behind Hverir was the highlight of our Ring Road trip. Panoramic views of Mývatn and the geothermal area are breathtaking!"
-      },
-      {
-        "name": "Sophie M.",
-        "date": "February 2026",
-        "rating": 4,
-        "text": "Such a unique landscape! The sulfur smell is very strong, so be prepared. Stay on the boardwalks and don't miss the climb up the mountain."
-      },
-      {
-        "name": "Oliver K.",
-        "date": "January 2026",
-        "rating": 5,
-        "text": "Free and open 24/7—we visited at midnight during the summer solstice and had the place almost to ourselves. The midnight sun lighting was magical."
-      }
-    ]
+    "title": "Ratings & Visitor Feedback",
+    "declaration": "Hverir is rated 4.6 out of 5 based on 10,314 Google Maps reviews (checked October 2026). We do not republish individual visitor comments on this page — please read them on Google Maps, where they are attributed and dated by their authors.",
+    "ratingLabel": "Google Maps rating",
+    "ratingValue": "4.6 / 5",
+    "countLabel": "Reviews",
+    "countValue": "10,314",
+    "checkedLabel": "Checked",
+    "checkedValue": "October 2026",
+    "moreReviews": "Read reviews on Google Maps"
   },
   "mapSection": {
     "title": "How to Get Here",
     "subtitle": "J5RR+978, 660 Reykjahlíð, Iceland",
     "openMaps": "View on Google Maps",
     "openMapsUrl": "https://maps.app.goo.gl/XR4FSQY6QcQvKWSq8",
-    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1608.800!2d-16.8886!3d65.6392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48c7e5a8c8c8c8c8%3A0x8c8c8c8c8c8c8c8c!2sHverir!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+    "embedUrl": "https://maps.google.com/maps?q=Hverir%20Geothermal%20Area%2C%20N%C3%A1maskar%C3%B0%2C%20Iceland&z=15&output=embed",
+    "mapTitle": "Google Maps – Hverir geothermal area, Námaskarð, Iceland"
   },
   "footer": {
     "logo": "Hverir",
@@ -284,12 +326,16 @@
     "disclaimer": "Disclaimer: This website is an independent visitor guide and is not affiliated with the Icelandic government, Visit Iceland, or the official management of Mývatn Protected Area. Information provided is for travel reference only. Conditions may vary by season. We recommend verifying with official sources before your visit.",
     "officialResourcesTitle": "Official Tourism Resources",
     "officialLinks": {
+      "parking": "Hverir Parking Operator (Sannir)",
       "inspired": "Inspired by Iceland",
       "ust": "Umhverfisstofnun",
       "northIceland": "Visit North Iceland",
       "visitMyvatn": "Visit Mývatn",
       "lmi": "Landmælingar Íslands"
-    }
+    },
+    "exploreTitle": "Plan Your Visit",
+    "exploreParking": "Parking Fees & Payment",
+    "exploreHike": "Námafjall Hike"
   },
   "officialManagement": {
     "title": "About Hverir",
@@ -297,10 +343,22 @@
   },
   "header": {
     "home": "Home",
+    "parking": "Parking",
+    "hike": "Námafjall Hike",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
     "backToHome": "Back to Home"
+  },
+  "explore": {
+    "title": "Plan Your Visit",
+    "subtitle": "Detailed guides for the two questions visitors ask about most",
+    "parkingTitle": "Parking Fees & Payment",
+    "parkingDesc": "Paid 24/7, year-round. Current rates by vehicle category, EasyPark and QR payment, day-pass rules and how to avoid the non-payment fee.",
+    "parkingCta": "Read the parking guide",
+    "hikeTitle": "Námafjall Hike",
+    "hikeDesc": "The short, steep ridge climb above Hverir: where the trail starts, what you see from the top, and safety advice for wind, ice and geothermal ground.",
+    "hikeCta": "Read the hiking guide"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -370,5 +428,209 @@
     "save": "Save Preferences",
     "rejectAll": "Reject All",
     "saved": "Settings Saved!"
+  },
+  "parking": {
+    "meta": {
+      "title": "Hverir Parking Fees & Payment (Námaskarð, Iceland)",
+      "description": "Parking at Hverir is paid 24 hours a day, year-round. See the current rates by vehicle category (1,400 / 3,000 / 7,000 ISK), EasyPark and QR payment options, day-pass rules and how to avoid the 4,500 ISK non-payment fee."
+    },
+    "title": "Hverir Parking: Fees & Payment",
+    "intro": "The car park at Hverir (also signed Hverarönd / Námaskarð) sits directly beside the Ring Road (Route 1), a 1–2 minute walk from the geothermal field. It stands on privately owned land and is operated by a private parking operator. Parking is chargeable 24 hours a day, every day of the year — winter included. Walking into Hverir itself is free.",
+    "facts": [
+      {
+        "label": "Parking charge",
+        "value": "Paid, 24 hours a day, all year"
+      },
+      {
+        "label": "Rates listed by the operator",
+        "value": "1,400 / 3,000 / 7,000 ISK (by vehicle category)"
+      },
+      {
+        "label": "Payment methods",
+        "value": "EasyPark app, QR code on signs, on-site payment machine"
+      },
+      {
+        "label": "First 5 minutes",
+        "value": "Free"
+      },
+      {
+        "label": "Overnight camping",
+        "value": "Not allowed"
+      },
+      {
+        "label": "Operator",
+        "value": "Sannir Landvættir · +354 587 0444"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "How much does parking at Hverir cost?",
+        "items": [
+          "The operator's page for Hverir lists three rates: 1,400 ISK, 3,000 ISK and 7,000 ISK, applied according to vehicle category.",
+          "Rates can change and the EasyPark app adds its own service fee on top of the parking charge. Always check the amount shown for your vehicle before confirming payment.",
+          "There is no admission fee for the geothermal field — only the car park is chargeable."
+        ]
+      },
+      {
+        "heading": "How to pay",
+        "items": [
+          "EasyPark app: scan the QR code on the signs at the car park to download the app, register your vehicle and start the session.",
+          "CameraPark: if you enable \"CameraPark\" in the app, the charge is taken automatically when your vehicle arrives.",
+          "Payment machine: a digital payment machine with a QR code is mounted on the signs at the site.",
+          "Online: the operator accepts same-day online payment from its locations page (sannir.is/verkefni).",
+          "Same-day payment is what avoids the extra non-payment fee — do not leave it until the next day."
+        ]
+      },
+      {
+        "heading": "Rules worth knowing before you park",
+        "items": [
+          "The first 5 minutes in the car park are free.",
+          "A day pass is valid until midnight on the day of purchase and lets you come and go during that day.",
+          "Overnight stays and camping in the car park are not allowed.",
+          "If you do not pay within the same day, an invoice goes to the registered owner of the vehicle with an additional 4,500 ISK non-payment fee, a 250 ISK electronic invoice fee and any third-party transaction fee.",
+          "The car park is small and fills up in July; arrive early in the morning or later in the evening."
+        ]
+      },
+      {
+        "heading": "Where exactly is the car park?",
+        "items": [
+          "Directly on Route 1 (the Ring Road) at Námaskarð pass, about 6 km east of Reykjahlíð (Mývatn) and about 105 km from Akureyri.",
+          "Plus Code J5RR+978, 660 Reykjahlíð, Iceland.",
+          "From the car park, wooden boardwalks lead into the geothermal area in 1–2 minutes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Is parking at Hverir free?",
+        "a": "No. The Hverir car park is chargeable 24 hours a day, every day of the year. The operator lists rates of 1,400 ISK, 3,000 ISK and 7,000 ISK depending on vehicle category. Check the current rate for your vehicle before you pay."
+      },
+      {
+        "q": "How do I pay for Hverir parking online?",
+        "a": "You can pay on the same day through the parking operator's website by selecting the Hverir location, or use the EasyPark app with the QR code displayed on the signs at the car park. Payment must be made on the same day as your visit."
+      },
+      {
+        "q": "What happens if I don't pay the Hverir parking fee?",
+        "a": "If payment is not made within the same day, an invoice is issued to the registered owner of the vehicle for the day rate plus a 4,500 ISK non-payment fee, a 250 ISK electronic invoice fee and any third-party transaction fee."
+      },
+      {
+        "q": "Is there any free parking near Hverir?",
+        "a": "The signed car park next to the geothermal area is the designated parking for Hverir and it is paid. Do not park on the roadside or off-road: the surrounding ground is a protected and fragile geothermal surface, and stopping on Route 1 is dangerous."
+      },
+      {
+        "q": "Can I sleep or camp in the Hverir car park?",
+        "a": "No. Overnight stays and camping are not allowed in the car park, and each day pass expires at midnight."
+      },
+      {
+        "q": "Do I need a ticket to enter Hverir?",
+        "a": "No. Access to the geothermal field is free and open 24 hours a day, year-round, with no ticket or reservation. Only the car park is chargeable."
+      },
+      {
+        "q": "How long can I stay in the Hverir car park?",
+        "a": "A day pass covers the whole day until midnight and lets you come and go. Most visitors spend 1–2 hours at Hverir, or 3–4 hours if they also climb Námafjall."
+      }
+    ],
+    "sourceLabel": "Check current rates and pay: Hverir parking operator (Sannir Landvættir)",
+    "updated": "Parking information last checked: October 2026"
+  },
+  "hike": {
+    "meta": {
+      "title": "Námafjall Hike Above Hverir – Trail, Views & Safety",
+      "description": "How to hike Námafjall (Námaskarð) above Hverir: where the trail starts, how long it takes, what you see from the ridge, and safety advice for wind, ice and geothermal ground."
+    },
+    "title": "Námafjall Hike Above Hverir",
+    "intro": "Námafjall is the rhyolite ridge that rises directly behind the Hverir geothermal field. The climb from the car park is short but steep, and from the top you look down on the whole Hverir steam field with Lake Mývatn and the Krafla caldera in the distance. It is one of the best viewpoints in the Mývatn region and it costs nothing beyond the paid parking.",
+    "facts": [
+      {
+        "label": "Trail start",
+        "value": "Hverir car park on Route 1 at Námaskarð"
+      },
+      {
+        "label": "Round trip",
+        "value": "About 30–45 minutes to the ridge and back"
+      },
+      {
+        "label": "Difficulty",
+        "value": "Short but steep, loose scree underfoot"
+      },
+      {
+        "label": "Trail surface",
+        "value": "Unpaved mountain path, no steps or handrails"
+      },
+      {
+        "label": "Best season",
+        "value": "Late spring to early autumn; icy in winter"
+      },
+      {
+        "label": "Cost",
+        "value": "Free walk — parking at Hverir is paid"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Where does the trail start?",
+        "items": [
+          "Park in the paid Hverir car park beside Route 1 and walk the boardwalks through the geothermal field first.",
+          "The path up Námafjall leaves from the far side of the geothermal area, behind the steam vents.",
+          "Follow the most worn line and stay on it: this is an unmaintained mountain path, not a built trail with signage."
+        ]
+      },
+      {
+        "heading": "What you see from the top",
+        "items": [
+          "The full Hverir steam field below, with fumaroles and boiling mud pots spread out beneath you.",
+          "Lake Mývatn to the west and the Krafla volcanic system to the north-east.",
+          "The coloured rhyolite slopes of Námafjall itself — yellow, red and white mineral staining.",
+          "Sunset and the summer midnight sun are the most photographed conditions up here."
+        ]
+      },
+      {
+        "heading": "Safety advice",
+        "items": [
+          "Stay off the geothermal ground: the pale crust over boiling mud is thin and can collapse. Only ever walk on the marked boardwalks in the field itself.",
+          "Wind on the ridge is much stronger than at the car park — bring a windproof layer even in summer.",
+          "In winter the path is icy and the daylight window is short (roughly 10:00–16:00). Use spikes and turn back early.",
+          "Do not climb on the steaming slopes on the eastern side of the ridge; the ground there is actively hot.",
+          "Tell someone your plan if you go alone, and carry a charged phone."
+        ]
+      },
+      {
+        "heading": "Combining the hike with the rest of your day",
+        "items": [
+          "Hverir geothermal field: 30–60 minutes on the boardwalks.",
+          "Námafjall ridge: add roughly 30–45 minutes return.",
+          "Krafla and the Víti explosion crater: about a 10-minute drive.",
+          "Mývatn Nature Baths: roughly a 20-minute drive, ideal at the end of the day."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "How long does the Námafjall hike take?",
+        "a": "Most visitors take about 30–45 minutes for the return trip from the Hverir car park to the ridge and back. Add time for photos — the viewpoint rewards a slow visit."
+      },
+      {
+        "q": "Is the Námafjall hike difficult?",
+        "a": "It is short but steep, with loose scree and no built steps or handrails. Fit walkers in proper footwear find it straightforward; it is not suitable for pushchairs, wheelchairs or anyone unsteady on loose ground."
+      },
+      {
+        "q": "Where does the Námafjall trail start?",
+        "a": "From the Hverir car park on Route 1 at Námaskarð. Walk through the geothermal field on the boardwalks first; the path up the ridge begins on the far side of the steam vents."
+      },
+      {
+        "q": "Can I hike Námafjall in winter?",
+        "a": "Yes, but conditions matter: the path is often icy and there are only a few hours of daylight (roughly 10:00–16:00). Bring spikes, a windproof layer and a head torch, and turn back if the weather changes."
+      },
+      {
+        "q": "Is Námafjall the same place as Hverir?",
+        "a": "They are the same area, referred to by different names. Hverir (also Hverarönd) is the geothermal field beside Route 1; Námafjall is the mountain behind it, and Námaskarð is the pass the road crosses."
+      },
+      {
+        "q": "Do I need to pay to hike Námafjall?",
+        "a": "The walk is free and open at all hours. You do have to pay for parking in the Hverir car park, which is chargeable 24 hours a day, year-round."
+      }
+    ],
+    "sourceLabel": "Area information: Visit North Iceland / Visit Mývatn",
+    "updated": "Hiking information last checked: October 2026"
   }
 }

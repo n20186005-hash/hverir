@@ -126,8 +126,8 @@ export default function TransportSection() {
                 <polyline points="9 22 9 12 15 12 15 22"/>
               </svg>
             }
-            title={t('fromNyhavn')}
-            description={t('fromNyhavnDesc')}
+            title={t('fromAkureyri')}
+            description={t('fromAkureyriDesc')}
           />
         </div>
       </div>

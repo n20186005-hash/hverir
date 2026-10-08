@@ -21,7 +21,7 @@ export default function HoursSection() {
           <TimeCard title={t('summer')} time={t('summerTime')} iconKey="sun" />
           <TimeCard title={t('winter')} time={t('winterTime')} iconKey="snowflake" />
           <TimeCard title={t('christmas')} time={t('christmasTime')} iconKey="tree" />
-          <TimeCard title={t('rosenborg')} time={t('rosenborgTime')} iconKey="castle" />
+          <TimeCard title={t('rosenborg')} time={t('rosenborgTime')} iconKey="trail" />
         </div>
 
         <div
@@ -69,11 +69,11 @@ function TimeCard({ title, time, iconKey }: { title: string; time: string; iconK
         <rect x="10" y="16" width="4" height="6"/>
       </svg>
     ),
-    castle: (
+    trail: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-        <path d="M3 21h18"/>
-        <path d="M5 21V7l3-3v3h3V4l3-3v3h3V4l3-3v17"/>
-        <path d="M9 21v-6h6v6"/>
+        <path d="M4 20c0-4 3-6 3-9a3 3 0 0 1 6 0c0 3 3 5 3 9"/>
+        <path d="M16 20c0-3-1-5-1-7"/>
+        <path d="M2 20h20"/>
       </svg>
     ),
   };

@@ -1,5 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
-import { useTranslations, useLocale, useMessages } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
+import { Link } from '@/i18n/navigation';
+import { absoluteUrl, languageAlternates } from '@/lib/site';
 import type { Metadata } from 'next';
 
 export async function generateMetadata({
@@ -8,40 +10,29 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const frUrl = `${baseUrl}/fr/terms-of-service`;
-  const zhUrl = `${baseUrl}/zh-Hant/terms-of-service`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const messages = (await import(`@/messages/${locale}.json`)).default;
 
   return {
+    title: `${messages.terms.title} | Hverir`,
     alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      canonical: absoluteUrl(locale, '/terms-of-service'),
+      languages: languageAlternates('/terms-of-service'),
     },
+    robots: { index: false, follow: true },
   };
 }
 
 function TermsContent() {
   const t = useTranslations('terms');
   const ht = useTranslations('header');
-  const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
   const sections = (messages?.terms?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
-        <a
-          href={homeHref}
+        <Link
+          href="/"
           className="inline-flex items-center gap-2 text-sm font-medium mb-10 transition-colors"
           style={{ color: 'var(--accent)' }}
         >
@@ -50,7 +41,7 @@ function TermsContent() {
             <polyline points="12 19 5 12 12 5" />
           </svg>
           {ht('backToHome')}
-        </a>
+        </Link>
 
         <h1 className="font-display text-3xl sm:text-4xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>
           {t('title')}

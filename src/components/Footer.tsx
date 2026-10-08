@@ -1,6 +1,8 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 
+import { PARKING } from '@/lib/site';
+
 export default function Footer() {
   const t = useTranslations('footer');
 
@@ -13,12 +15,15 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              {t('logo') || 'Petrovaradin Fortress Clock'}
+              {t('logo')}
             </h3>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
+              <a href={PARKING.operatorUrl} target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.parking')}
+              </a>
               <a href="https://www.visiticeland.com" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.inspired')}
               </a>
@@ -36,7 +41,19 @@ export default function Footer() {
               </a>
             </div>
           </div>
-          <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+          <div className="flex flex-col gap-4 text-sm mt-4 sm:mt-0">
+            <div className="flex flex-col gap-2">
+              <p className="text-xs uppercase tracking-wide" style={{ color: 'var(--text-muted)' }}>
+                {t('exploreTitle')}
+              </p>
+              <Link href="/parking" style={{ color: 'var(--accent)' }} className="hover:underline">
+                {t('exploreParking')}
+              </Link>
+              <Link href="/namafjall-hike" style={{ color: 'var(--accent)' }} className="hover:underline">
+                {t('exploreHike')}
+              </Link>
+            </div>
+            <div className="flex flex-wrap gap-4">
             <Link href="/privacy-policy" style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </Link>
@@ -46,6 +63,7 @@ export default function Footer() {
             <Link href="/cookie-settings" style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('cookies')}
             </Link>
+            </div>
           </div>
         </div>
 

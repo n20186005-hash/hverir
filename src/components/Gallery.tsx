@@ -2,6 +2,7 @@
 
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { ATTRACTION } from '@/lib/site';
 
 export default function Gallery() {
   const t = useTranslations('gallery');
@@ -107,7 +108,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/6bzftSMgiA7QrbYG8"
+                href={ATTRACTION.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

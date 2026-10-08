@@ -1,17 +1,18 @@
-import { useTranslations, useLocale } from 'next-intl';
+import { useTranslations } from 'next-intl';
+import { ATTRACTION, RATING } from '@/lib/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const locale = useLocale();
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src={t('bgImage') || "/gallery/saint-naum-monastery-01.jpg"}
-          alt={locale === 'zh' ? '圣诺姆修道院' : 'St. Naum Monastery'}
+          src={t('bgImage')}
+          alt={t('bgImageAlt')}
           className="w-full h-full object-cover"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -26,8 +27,8 @@ export default function Hero() {
             {t('subtitle')}
           </p>
 
-          {/* Meta row */}
-          <div className="flex flex-wrap items-center gap-4 mb-8 animate-fade-in-up animation-delay-200">
+          {/* Meta row — rating, hours, parking, maps */}
+          <div className="flex flex-wrap items-center gap-3 mb-8 animate-fade-in-up animation-delay-200">
             <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="#f0b429" stroke="none">
                 <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
@@ -42,8 +43,15 @@ export default function Hero() {
               </svg>
               <span className="text-white text-sm">{t('hours')}</span>
             </div>
+            <div className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
+                <rect x="3" y="3" width="18" height="18" rx="2"/>
+                <path d="M9 17V9h6v8"/>
+              </svg>
+              <span className="text-white text-sm">{t('parking')}</span>
+            </div>
             <a
-              href="https://maps.app.goo.gl/6bzftSMgiA7QrbYG8"
+              href={ATTRACTION.mapsUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
@@ -55,6 +63,8 @@ export default function Hero() {
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
           </div>
+
+          <p className="text-xs text-white/60">{RATING.checkedAt}</p>
         </div>
       </div>
 
