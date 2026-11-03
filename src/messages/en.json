@@ -12,7 +12,7 @@
     "hours": "Open 24 hours, year-round",
     "openMaps": "View Location",
     "parking": "Parking: paid 24/7",
-    "bgImage": "/gallery/hverir-.jpg",
+    "bgImage": "/gallery/hverir-1.jpg",
     "bgImageAlt": "Hverir geothermal area: steam vents and boiling mud pots at Námaskarð, Iceland"
   },
   "visitSummary": {
@@ -249,51 +249,51 @@
     "viewAll": "View on Google Maps",
     "photos": [
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-1.jpg",
         "alt": "Hverir Geothermal Field Overview"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-2.jpg",
         "alt": "Boiling Mud Pots Close-up"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-3.jpg",
         "alt": "Steam Vents and Fumaroles"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-4.jpg",
         "alt": "Colorful Mineral Deposits"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-5.jpg",
         "alt": "Námafjall Mountain"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-6.jpg",
         "alt": "Wooden Boardwalk Path"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-7.jpg",
         "alt": "Panoramic View from Summit"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-8.jpg",
         "alt": "Sulfur Crystals Close-up"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-9.jpg",
         "alt": "Geothermal Area Landscape"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-10.jpg",
         "alt": "Steam Rising from Ground"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-11.jpg",
         "alt": "Mývatn Lake Distant View"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-12.jpg",
         "alt": "Hverir Area Panorama"
       }
     ]

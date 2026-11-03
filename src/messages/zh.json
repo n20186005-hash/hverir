@@ -12,7 +12,7 @@
     "hours": "全年24小时开放",
     "openMaps": "查看位置",
     "parking": "停车：全年全天收费",
-    "bgImage": "/gallery/hverir-.jpg",
+    "bgImage": "/gallery/hverir-1.jpg",
     "bgImageAlt": "冰岛 Hverir 地热区：Námaskarð 的蒸汽喷口与沸腾泥浆池"
   },
   "visitSummary": {
@@ -249,51 +249,51 @@
     "viewAll": "在 Google Maps 查看位置",
     "photos": [
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-1.jpg",
         "alt": "Hverir地热田全景"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-2.jpg",
         "alt": "沸腾泥浆池特写"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-3.jpg",
         "alt": "蒸汽喷口与喷气孔"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-4.jpg",
         "alt": "彩色矿物沉积物"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-5.jpg",
         "alt": "Námafjall山"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-6.jpg",
         "alt": "木制栈道"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-7.jpg",
         "alt": "山顶全景视角"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-8.jpg",
         "alt": "硫磺晶体特写"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-9.jpg",
         "alt": "地热区域景观"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-10.jpg",
         "alt": "地面升起的蒸汽"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-11.jpg",
         "alt": "Mývatn湖远景"
       },
       {
-        "src": "/gallery/hverir-.jpg",
+        "src": "/gallery/hverir-12.jpg",
         "alt": "Hverir区域全景"
       }
     ]
