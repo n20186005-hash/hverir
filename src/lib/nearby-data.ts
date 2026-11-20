@@ -40,7 +40,7 @@ export const nearbyData: readonly NearbyPlace[] = [
     '惠尔山火山口（Hverfjall）', '登上米湖旁的黑色火山碎屑环，从口缘俯瞰火山口。', '惠尔山也叫 Hverfell，是约 2500 年前一次爆炸性喷发留下的宽阔火山碎屑环。',
     '抵达口缘后，先向内看碗状火山口，再转向米湖和火山口南侧不规则的熔岩群。', '导航到指定登山口。坡面裸露且碎石松散，与赫维尔的平缓步道不同。沿开放的标记路线走，风大或脚下打滑时原路返回。',
     '从口缘步道把弧形口缘和内壁一起纳入画面。想拍完整轮廓，可在山脚后退取景。', '惠尔山和纳马山是同一座山吗？', '不是。惠尔山是米湖边的黑色火山口，纳马山则是赫维尔喷气孔旁的山脊。',
-  ]),
+  ], { en: 'Vogar landowners oversee the protected area, its facilities and visitor services under the conservation agreement.', zh: 'Vogar 土地所有者依据保护协议照管保护区，并负责区内设施和游客服务。', source: 'https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2024-11-19-Staekkun-natturuvaettisins-Hverfjalls-stadfest-af-radherra/' }),
   place('dimmuborgir', 'Dimmuborgir', 'Lake Mývatn', 'myvatn', 'https://www.ust.is/english/visiting-iceland/protected-areas/north-east/dimmuborgir/', [
     'Dimmuborgir lava formations', 'Walk between solidified lava towers and arches on the east side of Lake Mývatn.',
     'The formations date to a lava flow about 2,300 years ago. Pillars and walls remained after a lava lake drained.',
@@ -52,7 +52,7 @@ export const nearbyData: readonly NearbyPlace[] = [
     '黑暗城堡熔岩区（Dimmuborgir）', '沿米湖东岸步道探索凝固的熔岩塔和天然拱门。', '这里的地貌源于约 2300 年前的熔岩流。熔岩湖排空后，岩柱和岩壁保留了下来。',
     '一路可看到尖塔、凹穴和拱门不断变换轮廓。被称为 Kirkjan 的岩洞，入口像教堂拱顶。', '从景区入口出发，按现场示意图选择环线。前往 Kirkjan 的路线更长，先查看步道状况。',
     '试着用近处的岩石孔洞框住远处的岩塔。在步道内调整角度即可。', '必须先爬惠尔山才能到这里吗？', '不用。熔岩区有自己的入口和环形步道。',
-  ]),
+  ], { en: 'Land and Forest Iceland oversees the land and develops the visitor site with the Nature Conservation Agency. Mývatn district rangers patrol the site.', zh: '冰岛土地与森林署负责土地管理，并与冰岛自然保护局合作完善游客设施。米湖地区巡护员负责现场巡护。', source: 'https://www.nattura.is/svaedin/dimmuborgir' }),
   place('skutustadagigar', 'Skútustaðagígar', 'Skútustaðir, Lake Mývatn', 'myvatn', 'https://www.ust.is/english/visiting-iceland/protected-areas/north-east/skutustadagigar/', [
     'Skútustaðagígar pseudocraters', 'Follow the south-shore path where rows of low grassy craters reveal how hot lava interacted with water.',
     'Steam explosions formed these rootless cones when lava travelled across wet ground. They are concentrated around the little lake Stakhólstjörn.',
@@ -64,7 +64,7 @@ export const nearbyData: readonly NearbyPlace[] = [
     '斯库图库火山假口群（Skútustaðagígar）', '沿米湖南岸观察成排的草覆环丘，了解灼热的熔岩与水如何塑造地形。', '熔岩流经湿地时引发蒸汽爆炸，形成这些没有岩浆通道的圆锥丘。它们集中在 Stakhólstjörn 小湖周围。',
     '这里有大小不一的一系列环丘。从步道较高处看，同样的环形轮廓沿湖岸反复出现。', '从米湖南岸 Skútustaðir 的标识入口进入。湿软地面请沿路通过，根据现场路牌选择合适的环线。',
     '从步道低角度拍摄，可让几道长草的口缘在画面中重叠。把小湖放进背景则更容易看出地貌所处的位置。', '这些火山口与惠尔山有什么不同？', '这些环丘是熔岩流底部的蒸汽爆炸形成的，每座丘下方并没有独立的岩浆喷发通道。',
-  ]),
+  ], { en: 'Mývatn district rangers look after the site.', zh: '由米湖地区巡护员照管。', source: 'https://www.nattura.is/svaedin/skutustadagigar' }),
   place('hofdi', 'Höfði', 'Lake Mývatn', 'myvatn', myvatn, [
     'Höfði lakeside woodland', 'Take a woodland walk on a small Mývatn peninsula with views between trees and lava stacks in the water.',
     'The woodland was developed through decades of planting, making this headland a markedly different landscape from the open volcanic ground nearby.',
