@@ -16,9 +16,9 @@ export const ATTRACTION = {
   city: 'Reykjahlíð',
   country: 'Iceland',
   countryCode: 'IS',
-  latitude: 65.6392,
-  longitude: -16.8886,
-  mapsUrl: 'https://maps.app.goo.gl/XR4FSQY6QcQvKWSq8',
+  latitude: 65.6409144,
+  longitude: -16.809311,
+  mapsUrl: 'https://maps.app.goo.gl/7y1K5GxbL9L3gqs78',
   /** No-key Google Maps embed (query based, stable without an API key). */
   embedBaseUrl:
     'https://maps.google.com/maps?q=Hverir%20Geothermal%20Area%2C%20N%C3%A1maskar%C3%B0%2C%20Iceland&z=15&output=embed',
@@ -27,8 +27,8 @@ export const ATTRACTION = {
 /** Google Maps rating snapshot — page display only, with a visible check date. */
 export const RATING = {
   value: 4.6,
-  count: 10314,
-  checkedAt: 'Google Maps rating · checked October 2026',
+  count: 10388,
+  checkedAt: 'Google Maps rating · checked November 20, 2026',
 };
 
 /** Parking at Hverir is operated by Sannir Landvættir and is chargeable 24/7, year-round. */

@@ -15,13 +15,14 @@ import HotelsSection from '@/components/HotelsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
+import NearbyIndex from '@/components/NearbyIndex';
 import Footer from '@/components/Footer';
-import { absoluteUrl, ATTRACTION, SITE_URL } from '@/lib/site';
+import { absoluteUrl, ATTRACTION, SITE_URL, type AppLocale } from '@/lib/site';
 
 export default async function HomePage({
   params,
 }: {
-  params: Promise<{ locale: string }>;
+  params: Promise<{ locale: AppLocale }>;
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
@@ -32,8 +33,9 @@ export default async function HomePage({
     '@id': `${SITE_URL}/#attraction`,
     name: ATTRACTION.name,
     alternateName: ATTRACTION.alternateNames,
-    description:
-      'Hverir (Hverarönd / Námaskarð) is a highly active geothermal area of boiling mud pots, steam vents and colourful mineral deposits beside Route 1 near Lake Mývatn in northeast Iceland.',
+    description: locale === 'zh'
+      ? '赫维尔（Hverarönd / Námaskarð）位于冰岛东北米湖附近的 1 号公路旁，以沸腾泥浆池、蒸汽喷口与多彩矿物沉积著称。'
+      : 'Hverir (Hverarönd / Námaskarð) is a geothermal area of bubbling mud pots, steam vents and colourful mineral deposits beside Route 1 near Lake Mývatn in northeast Iceland.',
     url: absoluteUrl(locale, '/'),
     image: `${SITE_URL}/gallery/hverir-1.jpg`,
     address: {
@@ -51,18 +53,7 @@ export default async function HomePage({
     hasMap: ATTRACTION.mapsUrl,
     isAccessibleForFree: true,
     publicAccess: true,
-    openingHoursSpecification: [
-      {
-        '@type': 'OpeningHoursSpecification',
-        opens: '00:00',
-        closes: '23:59',
-      },
-    ],
-    sameAs: [
-      ATTRACTION.mapsUrl,
-      'https://www.northiceland.is',
-      'https://www.visitmyvatn.is',
-    ],
+    sameAs: [ATTRACTION.mapsUrl],
   };
 
   return (
@@ -88,6 +79,7 @@ export default async function HomePage({
         <Gallery />
         <Reviews />
         <MapEmbed />
+        <NearbyIndex locale={locale} compact />
       </main>
       <Footer />
     </>

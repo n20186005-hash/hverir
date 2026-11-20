@@ -2,6 +2,7 @@
   "name": "hverir",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@10.32.1",
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
@@ -13,7 +14,7 @@
     "check:build": "node scripts/check-build.js"
   },
   "dependencies": {
-    "next": "^15.1.0",
+    "next": "15.5.27",
     "next-intl": "^4.11.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next';
 import { absoluteUrl, languageAlternates, PUBLIC_PATHS } from '@/lib/site';
 
+import { nearbyPlaces } from '@/lib/nearby';
+
 const LAST_UPDATED = new Date('2026-10-08T00:00:00Z');
 
 /**
@@ -27,5 +29,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
+  for (const path of ['/nearby', ...nearbyPlaces.map(({ slug }) => `/nearby/${slug}`)]) {
+    for (const locale of ['en', 'zh']) {
+      entries.push({ url: absoluteUrl(locale, path), alternates: { languages: languageAlternates(path) } });
+    }
+  }
   return entries;
 }

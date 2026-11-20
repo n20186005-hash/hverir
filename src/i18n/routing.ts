@@ -8,6 +8,8 @@ export const routing = defineRouting({
   },
   pathnames: {
     '/': '/',
+    '/nearby': '/nearby',
+    '/nearby/[slug]': '/nearby/[slug]',
     '/parking': '/parking',
     '/namafjall-hike': '/namafjall-hike',
     '/privacy-policy': '/privacy-policy',
