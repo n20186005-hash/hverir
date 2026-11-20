@@ -11,8 +11,6 @@ import { absoluteUrl, languageAlternates, type AppLocale } from '@/lib/site';
 
 type Props = { params: Promise<{ locale: AppLocale; slug: string }> };
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return nearbyPlaces.map(({ slug }) => ({ slug }));
 }
